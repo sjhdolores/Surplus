@@ -1,0 +1,3442 @@
+A2TDOXBQ7MFS5Y
+1,Boots,13.99,
+
+A1BZQGP6HBLWNG
+1,Men,15.99,
+1,Clothing,15.99,
+1,T-Shirts,15.99,
+
+A3SOOMV5880U2G
+1,Casual,22.49,
+
+APO5UKAU4GR06
+1,Jewelry Boxes,150.0,
+
+A3ODH3RAWWPCEW
+1,Women,0.75,
+1,Jewelry,0.75,
+1,Rings,0.75,
+
+A153AVQ5HXLI3J
+1,Accessories,15.95,
+1,Jewelry: International Shipping Available,26.56,
+1,Shop by Designer,26.56,
+1,Contemporary Designer Jewelry,26.56,
+1,Bangle,26.56,
+1,Novelty,26.56,
+
+A298GPM0M8LHIS
+1,Gloves,5.94,
+
+A2O28KC6HVRHSB
+1,Shoes & Accessories: International Shipping Available,179.99,
+1,Amalfi by Rangoni,179.99,
+1,Pumps,179.99,
+1,Women,29.99,
+1,Bracelets,29.99,
+1,Wraps & Pashminas,24.99,
+2,Pullovers,46.99,46.99,
+1,Accessories,46.99,
+
+A1OMUYIM8UF00A
+1,Leggings,38.0,
+1,Shoes & Accessories: International Shipping Available,41.56,
+1,Sanuk,41.56,
+1,Comfort Shoes,41.56,
+1,Street, Surf & Skate,41.56,
+1,Flats,41.56,
+1,Loafers & Slip-Ons,41.56,
+1,Girls,24.99,
+1,Travel Duffels,68.0,
+
+A1V7AIG9IASHKC
+1,Boys,34.99,
+
+A2DTDRL91V8OVO
+1,Roxy,116.82,
+1,Accessories,116.82,
+1,Travel Duffels,116.82,
+1,Lasonia,24.95,
+1,Shoes,24.95,
+
+A194Z8G0NZKBYV
+2,Women,12.58,7.75,
+2,Novelty,12.58,7.75,
+1,Shoes & Accessories: International Shipping Available,92.95,
+1,Circa Joan & David,92.95,
+1,Dress,92.95,
+1,Boots,92.95,
+
+A3QIQ87YYOBLF
+2,Dresses,19.95,19.95,
+1,Plus-Size,19.95,
+1,Cleaning & Care,6.95,
+2,Leg Warmers,14.66,14.66,
+2,Accessories,14.66,9.5,
+1,Robes,17.0,
+1,Cold Weather Gloves,37.5,
+1,Arm Warmers,38.99,
+2,Sun Hats,32.0,15.0,
+2,Women,7.99,5.99,
+1,Novelty,7.99,
+1,Eyeglass Cases,9.5,
+1,Girls,9.5,
+3,Shoe Bags,12.5,12.5,12.49,
+1,Passport Covers,7.99,
+6,Fashion Scarves,8.99,10.99,8.99,6.99,2.95,12.99,
+1,Wraps & Pashminas,6.55,
+1,Necklaces & Pendants,5.99,
+1,Snow Boots,41.99,
+
+A2FD2W0IYLBUBB
+1,Wedding Rings,24.5,
+1,Novelty,24.5,
+
+A1HROUG63ZJ6PA
+1,Women,19.99,
+1,Wedding & Engagement Rings,19.99,
+
+A1LMFTY6G7KW95
+1,Vera Bradley,46.93,
+1,Cross-Body Bags,46.93,
+1,Accessories,46.93,
+
+A07743541LQBP5J4A6XMH
+1,Accessories,26.72,
+1,Baby Boys,26.72,
+
+AP07IIT3IBGPM
+1,Gemstones,13.99,
+1,Women,13.99,
+1,Necklaces & Pendants,13.99,
+
+A1NT0ZQR0UV9WG
+2,Shoes & Accessories: International Shipping Available,69.0,174.99,
+1,Haflinger,69.0,
+1,Comfort Shoes,69.0,
+1,Slippers,69.0,
+1,New Arrivals,30.49,
+1,Jewelry: International Shipping Available,30.49,
+1,Available for International Shipping,30.49,
+1,Timex,30.49,
+1,Timex test,30.49,
+1,Wrist Watches,30.49,
+1,SOREL,174.99,
+1,Snow & Cold Weather,174.99,
+1,Boots,174.99,
+1,Outdoor,174.99,
+1,Newsboy Caps,13.95,
+
+A3MJID8VAIKEF5
+1,Jewelry Towers,19.69,
+
+AYK4WMQORS6GC
+2,Boys,19.99,12.0,
+1,Slippers,12.0,
+
+A120HRXNJW1A0B
+1,Fashion,29.99,
+1,Boots,29.99,
+
+A3J05LU7OS8TBR
+1,Top-Handle Bags,20.33,
+
+A17B2Q4TI4OYHZ
+1,Eyeglass Chains,10.99,
+
+A2SYYF5TR2U6PN
+1,Girls,11.29,
+1,Boys,11.29,
+1,Hats & Caps,11.29,
+1,Pullovers,30.0,
+1,Big & Tall,30.0,
+
+A3CSWDDZA9CHST
+1,Jewelry: International Shipping Available,20.0,
+1,Amazon Curated Collection,20.0,
+1,Chains,20.0,
+1,Novelty,20.0,
+
+ACU3ORXEPM661
+1,Gifts,114.99,
+1,Collectible Watches,114.99,
+1,Fashion Watches,114.99,
+1,Watch Gifts,114.99,
+1,Invicta,114.99,
+1,Wrist Watches,114.99,
+1,New Jewelry,20.63,
+1,Jewelry: International Shipping Available,20.63,
+1,Amazon Curated Collection,20.63,
+2,Drop & Dangle,20.63,20.63,
+1,Novelty,20.63,
+
+A1DXWPDU6EIZZT
+1,Rings,45.95,
+1,Novelty,45.95,
+
+A3LE4H44MDS0CX
+1,Passport Covers,7.99,
+
+A3280UJPXJ1M9P
+1,Wrist Watches,386.5,
+
+A2NR0H87UZ6XSK
+1,Repair Tools & Kits,7.5,
+
+AC5H2BLNPZQL
+1,Casual Daypacks,41.24,
+1,Athletic Socks,9.19,
+
+A2T1AXEVW98NUS
+1,T-Shirts,17.35,
+
+A2X4K5XCS1SFZS
+1,Women,10.99,
+1,Necklaces & Pendants,10.99,
+
+AIZZF9FH7Z22M
+1,Diamonds,39.99,
+1,Pendants,39.99,
+1,Novelty,39.99,
+
+A2C49WCJ2ZW7QQ
+1,Headbands,2.49,
+1,Women,6.99,
+1,Leggings,6.99,
+
+A2FO2G8XBZP514
+1,Hair Accessories,12.95,
+
+AU360UZ8B1V58
+1,Luggage Scales,10.0,
+
+AG2U81XM85VD3
+1,Women,74.95,
+1,Luggage & Travel Gear,74.95,
+
+A2P033E8C3AP7F
+1,Pendants,29.99,
+1,Novelty,29.99,
+
+A1C7SQQOUIX8SS
+1,T-Shirts,24.95,
+
+A276RQ2PFN2BE4
+1,Shoes & Accessories: International Shipping Available,44.99,
+1,Stride Rite,44.99,
+1,Baby Boys,44.99,
+
+A3SD39KZZRB0BY
+2,Necklaces,58.0,56.95,
+2,Novelty,58.0,56.95,
+1,Diamonds,56.95,
+1,Jewelry: International Shipping Available,56.95,
+1,Necklaces & Pendants,56.95,
+
+A5BIFSZ7SA03
+7,Shoes & Accessories: International Shipping Available,145.0,114.99,48.95,49.95,58.96,150.0,55.99,
+1,MaxStudio,145.0,
+5,Pumps,145.0,114.99,48.95,150.0,55.99,
+1,Women's Luxury Brands,145.0,
+1,New Arrivals,62.05,
+1,Jewelry: International Shipping Available,62.05,
+1,Fashion Watches,62.05,
+1,Available for International Shipping,62.05,
+1,Akribos Watches,62.05,
+2,Women,62.05,4.75,
+1,Wrist Watches,62.05,
+1,Full Price,114.99,
+1,Boutique 9,114.99,
+1,Franco Sarto,48.95,
+1,Two Lips,49.95,
+1,Sandals,49.95,
+1,Bronx,58.96,
+1,Oxfords,58.96,
+1,Sunglasses,21.99,
+1,Sunglasses & Eyewear,4.75,
+1,Isaac Mizrahi,150.0,
+
+A2BT9DFGHUIH6T
+1,Lingerie, Sleep & Lounge,129.99,
+1,Plus-Size,129.99,
+
+A3OYDYJHQVYFXP
+1,Messenger Bags,46.99,
+1,Cross-Body Bags,38.99,
+1,Shoulder Bags,38.99,
+
+A1NGET1A2WLBXP
+1,New Arrivals,164.7,
+1,Fashion Watches,164.7,
+1,Michael Kors Watches,164.7,
+1,Wrist Watches,164.7,
+1,Men,164.7,
+1,Women's Luxury Brands,164.7,
+
+A11JOHGZ0L8JY4
+1,Clothing,22.0,
+
+A2DB3XLTVE6OQL
+1,Watch Bands,18.95,
+1,Fitness & Cross-Training,94.99,
+
+ACTUW21I7ZKCR
+1,New Arrivals,19.99,
+1,Jewelry: International Shipping Available,19.99,
+1,Fashion Watches,19.99,
+1,Available for International Shipping,19.99,
+1,XOXO,19.99,
+1,XOXO Watches,19.99,
+1,Wrist Watches,19.99,
+
+A2RITFZOS40P8I
+1,Jewelry: International Shipping Available,4.8,
+1,Amazon Curated Collection,4.8,
+1,Hoop,4.8,
+1,Novelty,4.8,
+
+A1KAESK8M10N7V
+1,Shoe Care & Accessories,5.1,
+1,Tops,9.49,
+
+A1RBB9CQ51V72T
+1,Five-Stone Jewelry,20.99,
+1,Rings,20.99,
+4,Novelty,20.99,76.62,35.0,59.99,
+2,Bracelets,76.62,35.0,
+1,Jewelry: International Shipping Available,76.62,
+1,Amazon Curated Collection,76.62,
+3,Bangle,76.62,76.62,35.0,
+2,Women,12.99,59.99,
+1,Earrings,12.99,
+1,Strand,35.0,
+1,Gemstones,59.99,
+
+A3RR5Z9E1I0YR4
+1,Wraps & Pashminas,12.99,
+
+ARVD6RD0I881U
+1,Jewelry: International Shipping Available,73.72,
+1,Plain Silver Jewelry,73.72,
+1,Amazon Curated Collection,73.72,
+2,Bangle,73.72,73.72,
+1,Novelty,73.72,
+
+A3BJORFXMAWWM0
+1,FOSSIL,40.0,
+1,Wallets,40.0,
+1,Accessories,40.0,
+1,Board Shorts,25.0,
+
+A34RT38HK4YNUB
+1,Shop by Designer,16.64,
+1,Women,16.64,
+1,Necklaces & Pendants,16.64,
+
+A500LZQ23694L
+1,Men,19.16,
+1,Clothing,19.16,
+1,Women,19.16,
+
+ATTNVFQNDRB5G
+1,New Arrivals,276.5,
+1,Jewelry: International Shipping Available,276.5,
+1,Available for International Shipping,276.5,
+1,Citizen,276.5,
+1,Wrist Watches,276.5,
+
+AEARB5X210P0P
+1,Varsity Jackets,58.99,
+
+A3O0NKCFRYAMNX
+1,Shoes & Accessories: International Shipping Available,279.99,
+1,Winter Promo,279.99,
+1,farylrobin,279.99,
+1,Boots,279.99,
+
+A3COBK6QECHU2W
+1,Shoes & Accessories: International Shipping Available,119.95,
+1,Winter Promo,119.95,
+1,Timberland PRO,119.95,
+1,Work & Safety,119.95,
+1,Shoes,119.95,
+1,Industrial & Construction,119.95,
+
+A2EHWKPQJU1WIC
+1,Wrist Watches,43.01,
+
+A1T1BMADUDX7DP
+1,Shoes & Accessories: International Shipping Available,36.25,
+1,Travel Totes,36.25,
+
+A3CSELP9PCEPFN
+1,Novelty,4.95,
+
+A81XDAPSZ2DL6
+2,Athletic,9.59,9.59,
+1,Band & Music Fan,9.59,
+
+A325UAIAVJYOAV
+2,Pullovers,36.99,36.99,
+
+AE6BQ8WTA9GY8
+1,Sunglasses,150.0,
+
+A1LOJS4IY6OKMB
+1,Wallets,9.99,
+
+ARBBSHBRN1W34
+1,Shoes & Accessories: International Shipping Available,69.99,
+1,Skechers,69.99,
+1,Comfort Shoes,69.99,
+1,Fashion Sneakers,69.99,
+1,Athletic,69.99,
+1,Baby Dolls,18.9,
+
+A3ANYN1P6HGVTB
+1,Gemstones,16.0,
+1,Jewelry: International Shipping Available,16.0,
+1,Amazon Curated Collection,16.0,
+1,Stud,16.0,
+1,Novelty,16.0,
+1,Cross-Body Bags,41.99,
+
+A25PGWLV3XXEB1
+2,Women,6.75,6.95,
+1,Accessories,6.75,
+1,Earrings,6.95,
+
+A1B5I3WOUKL9RU
+1,New Arrivals,35.0,
+1,Jewelry: International Shipping Available,35.0,
+1,Available for International Shipping,35.0,
+1,Diplomat,35.0,
+1,Watch Winders,35.0,
+
+A2HF6PF50F5UWV
+1,Diamonds,38.32,
+1,Jewelry: International Shipping Available,38.32,
+1,Amazon Curated Collection,38.32,
+1,Pendants,38.32,
+1,Novelty,38.32,
+
+ANA8FREWG0B3J
+1,Earrings,7.9,
+1,Novelty,7.9,
+
+A1QAXVMR1OXE89
+1,Cold Weather Gloves,85.95,
+
+A3PCSA5IT9V7PS
+1,T-Shirts,14.99,
+
+AD4WAL25Y6H7R
+1,Shoe Dryers,49.99,
+
+A20EW39CADEN83
+1,More Accessories,5.99,
+
+A2U8WHH34O7H2K
+1,Tommy Hilfiger,24.8,
+1,Wallets,24.8,
+1,Accessories,24.8,
+
+A3G3FRZYPPH676
+1,Wrist Watches,249.0,
+2,Belts,9.95,9.95,
+1,Wallets,33.0,
+1,Accessories,33.0,
+1,Cuff,17.95,
+1,Bracelets,17.95,
+
+A19O56C9GXPSQ6
+1,Converse,99.0,
+1,Street, Surf & Skate,99.0,
+1,Fashion Sneakers,99.0,
+
+A219QVVQ4FA91H
+1,Kids & Baby,21.67,
+
+ATQ5PP0OBL8M1
+1,Night Out & Cocktail,53.99,
+1,Special Occasion,53.99,
+
+AGO3V4ONDJURK
+1,Jewelry: International Shipping Available,6.01,
+1,Amazon Curated Collection,6.01,
+1,Hoop,6.01,
+1,Novelty,6.01,
+
+AKXIMT9ETVVHE
+1,crocs,49.99,
+1,Comfort Shoes,49.99,
+1,Flats,49.99,
+
+A2AGJNCDVN774D
+1,Women,7.14,
+1,Keychains,7.14,
+1,Accessories,7.14,
+
+A3IOLVGPMFZGBW
+1,Necklaces,12.99,
+1,Necklaces & Pendants,12.99,
+
+ABCNV6XOKQS5
+1,Bobster Eyewear,69.98,
+2,Sunglasses,69.98,69.98,
+
+A3NYLD9EVDWRP2
+1,New Arrivals,30.97,
+1,Jewelry: International Shipping Available,30.97,
+1,Available for International Shipping,30.97,
+1,Timex,30.97,
+1,Timex test,30.97,
+1,Wrist Watches,30.97,
+
+AUC7ZC5M5Q6V3
+1,Casual Socks,36.0,
+1,Big & Tall,36.0,
+
+A3B78928VVPB1A
+1,Clothing,20.02,
+1,Wallets,20.02,
+
+A1GJ24UIXMZY4G
+1,Jewelry Boxes,6.25,
+
+AGB2TY10PZHEQ
+1,Women,28.0,
+1,T-Shirts,28.0,
+
+A375PG7D2WD2WB
+1,New Arrivals,83.99,
+1,Jewelry: International Shipping Available,83.99,
+1,Fashion Watches,83.99,
+1,Available for International Shipping,83.99,
+1,Invicta,83.99,
+1,Wrist Watches,83.99,
+1,Watch Accessories,83.99,
+
+A1DJCNYFTBUWBX
+1,Men,50.46,
+
+A1M510TH0VVZHJ
+1,Casual,25.66,
+
+AO4HXVKGGAOFE
+1,Girls,10.0,
+1,Boys,10.0,
+1,Kids & Baby,10.0,
+
+A8E0DUPKQFTGP
+3,Wrist Watches,24.49,15.29,15.29,
+2,Adhesive Bras,7.0,7.0,
+1,Lingerie Tape,7.0,
+1,Band & Music Fan,7.0,
+1,New Arrivals,15.29,
+
+ADOFEJZRHQUS8
+1,Women,10.99,
+1,Rings,10.99,
+1,Jewelry,33.99,
+1,Novelty,33.99,
+
+A1Y9RNURP33C87
+1,Night Out & Cocktail,36.0,
+
+A14WD4EEGP13LZ
+1,New Arrivals,487.5,
+1,Jewelry: International Shipping Available,487.5,
+1,Available for International Shipping,487.5,
+1,Citizen,487.5,
+1,Wrist Watches,487.5,
+
+A2E14IXKQWOFXT
+1,Jewelry Armoires,149.95,
+
+A23598C783PSWQ
+1,Playwear,15.0,
+1,Flats,16.99,
+
+A2XVDLEHDU3OW3
+1,Messenger Bags,91.05,
+
+AKRJQWB2ZOL15
+1,New Arrivals,62.99,
+1,Jewelry: International Shipping Available,62.99,
+1,Fashion Watches,62.99,
+1,Available for International Shipping,62.99,
+1,Wrist Watches,62.99,
+
+A1S24AAA1Q6A76
+1,Shoes & Accessories: International Shipping Available,79.99,
+1,Steve Madden,79.99,
+1,Motorcycle,79.99,
+2,Boots,79.99,79.99,
+
+A1Z2G0QZ8RS88G
+1,Women,29.0,
+1,Necklaces & Pendants,29.0,
+
+AYJNB9DA9CRA4
+1,Shoulder Bags,22.99,
+1,Soda,14.95,
+1,Boots,14.95,
+
+A1LTGNRZ77XL4H
+1,Casual Socks,16.0,
+
+A14E7QC4JQOLZZ
+1,Shoes & Accessories: International Shipping Available,35.99,
+1,MICHAEL Michael Kors,35.99,
+1,Sandals,35.99,
+
+A3CYTE38KD2SUN
+1,Women,4.99,
+1,Men,4.99,
+1,Novelty,4.99,
+1,Hats & Caps,5.84,
+
+AXQTU3OURNKTU
+2,Leg Warmers,8.49,8.49,
+1,Accessories,8.49,
+1,Shoes & Accessories: International Shipping Available,24.99,
+1,ACORN,24.99,
+1,Slippers,24.99,
+
+A26JNI0VFB876G
+1,Sets,6.99,
+1,Scarves & Wraps,7.5,
+
+A1UV94382ML0SX
+1,Inspirational Jewelry,18.29,
+1,Silver Jewelry,18.29,
+1,Jewelry: International Shipping Available,18.29,
+1,Plain Silver Jewelry,18.29,
+1,Amazon Curated Collection,18.29,
+2,Pendants,18.29,18.29,
+1,Novelty,18.29,
+
+A3PI5ZDD5NN0E1
+1,Pendants,21.0,
+1,Novelty,21.0,
+
+ADEXUZCPOVDAD
+1,Big & Tall,35.99,
+
+A27BA562LY7MN9
+1,Cabinets & Cases,79.95,
+
+AUWA4TX6PSFYL
+1,Luggage Sets,124.99,
+
+AXSPWAP4UTF6L
+1,Jewelry: International Shipping Available,29.0,
+1,Available for International Shipping,29.0,
+1,Wrist Watches,29.0,
+
+A2XJ8DKJRK9FGN
+1,Men,14.95,
+1,Wallets,14.95,
+1,Accessories,14.95,
+
+A3DID8J1G2LGM1
+1,Wrist Watches,13.99,
+
+A23R3DCX720PMZ
+1,Women,20.99,
+1,Earrings,20.99,
+2,Drop & Dangle,20.99,20.99,
+3,Novelty,20.99,20.99,14.9,
+1,Jewelry: International Shipping Available,14.9,
+1,Plain Silver Jewelry,14.9,
+1,Amazon Curated Collection,14.9,
+2,Hoop,14.9,14.9,
+
+A17Y4PYEYIT5A5
+1,Jewelry: International Shipping Available,59.0,
+1,Amazon Curated Collection,59.0,
+1,Plain Bands,59.0,
+1,Novelty,59.0,
+
+A1J82892ZFG9R7
+1,Scrub Tops,21.99,
+1,Scrub Bottoms,23.99,
+
+A2CANUU1K8ZXQU
+1,Robes,63.0,
+
+A2RVQD3948LZ3U
+1,Wigs,19.99,
+1,Comfort Shoes,129.0,
+1,Mules & Clogs,129.0,
+
+A14G3X77O7MKXP
+1,Cover-Up Sets,13.12,
+1,Bikinis,14.9,
+
+AEWR29GP96BBR
+1,Slippers,18.0,
+
+A92SZC3H6J19Z
+1,Wraps & Pashminas,69.95,
+1,Pearl Jewelry,19.45,
+1,Women,19.45,
+1,Brooches & Pins,19.45,
+1,Accessories,3.59,
+2,Jeans,34.0,34.0,
+
+A3UDH2K3F9W13Z
+1,Jewelry Boxes,13.99,
+2,Girls,6.5,24.99,
+1,Boys,6.5,
+1,Costumes & Accessories,6.5,
+5,Necklaces & Pendants,11.32,5.99,4.99,3.11,3.75,
+1,Wristlets,9.15,
+1,New Arrivals,24.32,
+1,Jewelry: International Shipping Available,24.32,
+1,Fashion Watches,24.32,
+1,Available for International Shipping,24.32,
+1,Ed Hardy,24.32,
+1,Wrist Watches,24.32,
+5,Women,5.99,4.99,3.11,3.75,8.99,
+1,Statement,24.99,
+1,Novelty,24.99,
+1,Earrings,8.99,
+1,Hoodies,24.99,
+
+A19O37AC1XIX16
+1,Fashion Watches,395.0,
+1,Michael Kors Watches,395.0,
+1,Wrist Watches,395.0,
+1,Women's Luxury Brands,395.0,
+
+A8LFXYST8OJQY
+1,Tankinis,29.99,
+
+A2Y1716INA662
+2,New Arrivals,150.68,349.59,
+2,Jewelry: International Shipping Available,150.68,349.59,
+2,Available for International Shipping,150.68,349.59,
+1,Wrist Watches,150.68,
+1,Fashion Watches,349.59,
+1,Invicta,349.59,
+1,Women,349.59,
+
+A18NTTHSLB2ON4
+1,T-Shirts,13.55,
+1,Men,13.46,
+2,Belts,13.46,9.99,
+1,Accessories,13.46,
+1,Cleaning & Care,5.99,
+1,G-Strings & Thongs,13.0,
+2,Women,8.99,4.99,
+2,Jewelry,8.99,4.99,
+1,Tunnels,8.99,
+1,Plugs,4.99,
+
+A24EV2E9QWBSFI
+1,Shoes & Accessories: International Shipping Available,83.99,
+1,ACORN,83.99,
+1,Slippers,83.99,
+
+A2LYKQYKLOXIPU
+2,Necklaces,11.74,8.99,
+2,Necklaces & Pendants,11.74,8.99,
+
+A1AWFAHVBBNT3O
+1,Seiko Watches,199.99,
+1,Wrist Watches,199.99,
+1,Watch Accessories,199.99,
+
+A1IWH54Y9028O5
+1,ASICS,79.9,
+1,Wrestling,79.9,
+
+A2SOZ260XIMQ9X
+1,Clothing,15.93,
+
+A22ARWNY006VJN
+1,Jewelry: International Shipping Available,22.34,
+1,Plain Silver Jewelry,22.34,
+1,Amazon Curated Collection,22.34,
+1,Hoop,22.34,
+1,Novelty,22.34,
+1,Top-Handle Bags,39.99,
+1,Shoulder Bags,39.99,
+1,Travel Wallets,31.2,
+
+A3SF910G8P1JC2
+1,Flats,15.99,
+
+A265CEF9UK6Z3P
+1,Women,38.45,
+1,Men,38.45,
+
+A2LXN27SNHZTKX
+1,Wrist Watches,5.8,
+
+A3H8EP3DP2HHUU
+1,New Jewelry,67.56,
+1,Jewelry: International Shipping Available,67.56,
+1,Amazon Curated Collection,67.56,
+1,Lockets,67.56,
+1,Novelty,67.56,
+
+AMC9TMN38SRH1
+1,Blouses & Button-Down Shirts,10.8,
+1,Boots,25.99,
+
+A395RVBH7MQB7Y
+1,One-Pieces,34.99,
+1,Women,6.95,
+1,Charms,6.95,
+
+A3HXCKN1VEKMBG
+1,Skullies & Beanies,10.27,
+
+AWD8DR1T8G0T2
+1,Wrist Watches,10.4,
+
+A3I5XK23JJ29DP
+1,Robes,119.0,
+1,Nightgowns & Sleepshirts,99.0,
+
+A32UJ2G766GZF
+1,Casual Daypacks,115.0,
+
+A1GUULZ10SBMF5
+1,Handbag Organizers,19.95,
+
+A16RBPZ0PM8GVC
+2,Bodysuits,12.99,12.99,
+
+A3LLU8K4Z37N6T
+1,Jewelry Trays,20.5,
+
+A1Q0OBY32P16K9
+1,Shoe & Boot Trees,29.95,
+
+A27013I4WJ83YA
+1,Shoulder Bags,23.65,
+1,Rings,6.75,
+
+A1HCNKO0RU92JR
+2,Tanks & Camis,29.45,29.45,
+
+AHSL9ELU72C6Q
+2,Belts,8.85,7.99,
+1,New Arrivals,65.0,
+2,Jewelry: International Shipping Available,65.0,95.0,
+1,Fashion Watches,65.0,
+1,Available for International Shipping,65.0,
+1,Anne Klein,65.0,
+1,Wrist Watches,65.0,
+1,Gemstones,95.0,
+1,Shop by Designer,95.0,
+1,Drop & Dangle,95.0,
+1,Novelty,95.0,
+
+ARKT0LVZO9VE
+1,Girls,20.0,
+1,Kids & Baby,20.0,
+
+A3PWHYKAMV4X0W
+1,Shoes & Accessories: International Shipping Available,29.99,
+1,Rampage,29.99,
+1,Pumps,29.99,
+
+ACB3BZ02SWJ1M
+1,Kenneth Cole REACTION,103.99,
+1,Messenger Bags,103.99,
+
+A1G27QFM9L40YD
+1,Luggage Scales,19.95,
+
+AMES1FZKKDSKG
+1,Sunglasses,7.25,
+1,Women,9.99,
+1,Sunglasses & Eyewear,9.99,
+
+A23KG35DUG73AE
+1,Diamonds,99.99,
+1,Jewelry: International Shipping Available,99.99,
+1,Amazon Curated Collection,99.99,
+1,Stud,99.99,
+1,Novelty,99.99,
+
+A1DPILUKY4BFQ7
+1,Casual Daypacks,32.07,
+
+A3IJTHX3P63DDG
+1,New Arrivals,45.94,
+1,Jewelry: International Shipping Available,45.94,
+1,Fashion Watches,45.94,
+1,Available for International Shipping,45.94,
+1,Invicta,45.94,
+1,Wrist Watches,45.94,
+1,Watch Accessories,45.94,
+
+A3JHPT520W62YD
+1,Drop & Dangle,20.99,
+1,Novelty,20.99,
+
+A3LWLU8DZMBYPY
+1,Costumes & Accessories,11.2,
+
+AN2GEWH9M2HL5
+1,Shoe Horns & Boot Jacks,11.5,
+
+A16LI0ZM02O9YU
+1,Briefcases,19.5,
+1,Rings,19.99,
+1,Novelty,19.99,
+
+A2LIS6U6HAECUU
+1,New Arrivals,31.92,
+1,Jewelry: International Shipping Available,31.92,
+1,Available for International Shipping,31.92,
+1,Timex,31.92,
+1,Timex test,31.92,
+1,Wrist Watches,31.92,
+1,Watch Accessories,31.92,
+
+A36VCF0YYT39BL
+1,Chains,24.99,
+2,Novelty,24.99,125.95,
+1,Women,29.99,
+1,Rings,29.99,
+1,Diamonds,125.95,
+1,Anniversary Rings,125.95,
+
+A22Q3PI5B9K4C3
+1,Umbrellas,24.99,
+
+A2OKPBP9SGJ8QQ
+1,Costumes & Accessories,34.95,
+
+ATDVSUT9P959C
+1,Casual Daypacks,17.95,
+
+A2GYCUJW6DTPW5
+1,Jewelry: International Shipping Available,53.02,
+1,Plain Gold Jewelry,53.02,
+1,Amazon Curated Collection,53.02,
+1,Hoop,53.02,
+1,Novelty,53.02,
+1,Test Women AAQ,53.02,
+
+A6UNFDJSJZZSI
+2,Dress & Trouser Socks,4.0,4.0,
+2,Fashion Scarves,12.99,12.99,
+
+A1VLMLJJJNMH2
+1,Casual Daypacks,29.41,
+
+A1TD9982DT3ID2
+1,Clothing,26.99,
+1,Fashion Scarves,26.99,
+
+ATXUGERCJCNAY
+1,Top-Handle Bags,56.33,
+1,Sports Bras,25.0,
+
+AR673T6XCD5A1
+2,Women,14.96,16.54,
+2,Earrings,14.96,16.54,
+
+A1RWDBL6DTJJIK
+1,Shoulder Bags,15.99,
+
+A1JFAORBWVUYBF
+1,Costumes & Accessories,19.46,
+
+AOG12T2BJKOD2
+1,Citizen,101.5,
+1,Wrist Watches,101.5,
+
+ABYHYMAIK4FGL
+1,Women,23.7,
+1,Men,23.7,
+
+A2031IYX27HUGA
+1,More Accessories,10.98,
+
+A2JA4AYGWC7AVV
+1,G-Strings & Thongs,16.0,
+1,Big & Tall,16.0,
+1,Briefs,14.97,
+
+A2T8GZOWAZDC9O
+1,Women,49.99,
+1,Men,49.99,
+
+A754H5222PDID
+1,Drop & Dangle,23.0,
+1,Novelty,23.0,
+1,Women,5.99,
+1,Earrings,5.99,
+
+A28DEPHKES1A8N
+1,Belly Bands,14.95,
+
+A1ESJBB4ZPUW6X
+1,New Arrivals,40.99,
+1,Wrist Watches,40.99,
+
+A3RP53UYDC3HZ7
+1,Umbrellas,33.58,
+
+A36AMKGTD4L3HL
+1,Shoes & Accessories: International Shipping Available,16.0,
+1,Wristlets,16.0,
+1,Accessories,16.0,
+
+AM02MP8W5JR0F
+2,Women,9.99,18.99,
+1,Jewelry,9.99,
+1,Earrings,18.99,
+
+A2WMPB20Q8NSFF
+1,Tights,11.0,
+1,Accessories,11.0,
+
+A2SCXOS3GFT3WE
+1,Boots,89.99,
+
+A2T2DIDD8XC6IK
+1,Travel Totes,9.79,
+
+A3MBW4FVPC0ULI
+1,Shoes & Accessories: International Shipping Available,39.0,
+1,MIA 2,39.0,
+1,Riding,39.0,
+1,Boots,39.0,
+
+A1E2RKXJQPW0K5
+1,Clothing,0.22,
+1,Wallets,0.22,
+
+A1XNQ8KBC2AON9
+2,Fashion Scarves,11.99,11.99,
+
+A9XJAKMEMIJL6
+1,Women,0.01,
+1,Earrings,0.01,
+1,Necklaces & Pendants,2.59,
+
+A6HC0AAPFKU8H
+1,Clothing,73.0,
+1,Dresses,73.0,
+1,Petite,73.0,
+
+AWS1FR9MU9GQ3
+1,Luggage Sets,599.99,
+
+A1VMCMYWVQ6YBG
+1,Belts,15.0,
+1,Eyeglass Cases,4.99,
+1,Men,6.49,
+1,Novelty,6.49,
+
+A1PW91ZFI8SYJ2
+2,Baby Boys,33.24,21.62,
+1,Accessories,21.62,
+
+A2Y9GWFBY8WM2Y
+1,Speedo,48.0,
+
+A2FHHB21M3U5OW
+1,Fashion Watches,207.09,
+1,Diesel,207.09,
+1,Diesel Watches,207.09,
+2,Wrist Watches,207.09,207.09,
+1,Women's Luxury Brands,207.09,
+
+A23HN5SDA9DGOS
+1,Women,26.95,
+1,Rings,26.95,
+
+A2NVDKT8KJW782
+2,Necklaces,29.99,29.99,
+1,Novelty,29.99,
+1,Jewelry: International Shipping Available,14.35,
+1,Shop by Designer,14.35,
+1,Women,14.35,
+1,Necklaces & Pendants,14.35,
+
+A3TJN9Z9B2PRQK
+1,Gloves & Mittens,8.08,
+
+A1205GEXZ3FY0P
+1,Baby Girls,10.49,
+
+APZQVSH1LW8R1
+1,Bodysuits,12.99,
+
+A37MROETMB5GEL
+1,Shoes & Accessories: International Shipping Available,54.4,
+1,Summer Promo,54.4,
+1,Nine West,54.4,
+
+A2358UYQ1ET538
+1,Belts,12.59,
+1,Casual,49.99,
+
+A11TB4E38I2NXZ
+1,More Accessories,186.86,
+
+AT1VSG5LXX3VI
+1,Men,4.47,
+1,G-Strings & Thongs,4.47,
+
+A2Z5GREGQDDNBQ
+1,Slippers,4.99,
+
+A1P2HRIONY23KB
+1,Jewelry Sets,21.99,
+1,Novelty,21.99,
+
+A37C992F3E2IJ7
+1,Eyeglass Cases,3.54,
+1,Hats & Caps,8.61,
+
+A2ZZQC5PMKGS3S
+1,Women,35.99,
+
+AT3CF8R8RBHFR
+1,One-Pieces,79.0,
+1,Plus-Size,79.0,
+
+AQ85602MU4T2J
+1,Shoes & Accessories: International Shipping Available,59.95,
+1,Winter Promo,59.95,
+1,Bearpaw,59.95,
+1,Boot Shop,59.95,
+1,Boots,59.95,
+
+A3DAOL3204FGT0
+1,Belts,17.99,
+
+A319GZPLIF2LMZ
+1,Polos,8.99,
+
+A25A0ICUOPFXDX
+1,Cuff,29.99,
+1,Novelty,29.99,
+
+A3UTG09L66EP70
+1,Men,15.0,
+1,Wallets,15.0,
+1,Accessories,15.0,
+
+A22M16Y5QUQSN0
+1,Diamonds,499.0,
+1,Novelty,499.0,
+
+A3O8KPNI84UC6F
+1,Women,6.34,
+1,Baseball Caps,29.98,
+1,Men,1.96,
+1,Novelty,1.96,
+1,Band & Music Fan,1.96,
+
+A7V8XBDRFX3AF
+1,Luggage Scales,7.48,
+
+AER0HQAJ1TO2P
+1,Coin Purses & Pouches,20.0,
+
+A1OAE867RH8CX7
+1,Neckties,10.49,
+
+A3BQDVAQ51NMZW
+1,Balaclavas,3.59,
+
+A1U2SH3PHOH0JX
+1,Everyday Bras,27.99,
+
+A1VJAZK7HUMF9O
+1,Southpole,20.0,
+2,Jeans,20.0,20.0,
+
+A2IGB0YLWC1PBN
+1,Jewelry: International Shipping Available,31.92,
+1,Available for International Shipping,31.92,
+1,Timex,31.92,
+1,Timex test,31.92,
+1,Wrist Watches,31.92,
+
+A3FO4WPFBQ9X16
+1,Charms,3.99,
+
+A1WTH1TFY28H1I
+1,Pocket Watches,25.0,
+
+AYY0CFFKE9T24
+1,Shoes & Accessories: International Shipping Available,49.47,
+1,Brooks,49.47,
+1,Running,49.47,
+
+ANXADZC4G95MR
+1,Shoes & Accessories: International Shipping Available,36.0,
+1,Grasshoppers,36.0,
+1,Fashion Sneakers,36.0,
+
+A3HT7JTUUTPCR9
+1,Tommy Hilfiger,21.61,
+1,Wallets,21.61,
+1,Accessories,21.61,
+1,Hats & Caps,12.9,
+
+A338JQPIIUO3UY
+1,Hair Accessories,18.45,
+
+AE5OHPQDJNVFY
+2,Polos,19.99,19.99,
+
+A34EW7XXY36EQV
+1,Ray-Ban,87.37,
+
+A7OYWI4KFN3G7
+1,Men,10.0,
+1,T-Shirts,10.0,
+
+A1R5D6AO4JKGJ7
+1,Women,17.99,
+1,Jewelry,17.99,
+1,Plugs,17.99,
+
+A1KR5X2VQWC03U
+1,Pearl Jewelry,199.95,
+1,Women,199.95,
+1,Bracelets,199.95,
+
+A3SB6P96NCXF3L
+2,New Arrivals,48.99,29.99,
+2,Jewelry: International Shipping Available,48.99,29.99,
+2,Fashion Watches,48.99,29.99,
+2,Available for International Shipping,48.99,29.99,
+1,Invicta,48.99,
+2,Wrist Watches,48.99,29.99,
+1,Watch Accessories,48.99,
+1,XOXO,29.99,
+1,XOXO Watches,29.99,
+
+A7XSGZFZD4PJW
+1,Top-Handle Bags,35.99,
+
+A2IZ29PWW0B2QO
+2,Casual,32.2,32.2,
+
+AQ5CBIQDT4N03
+1,T-Shirts,20.5,
+
+A24S1Z6M6JW83G
+1,Special Occasion,19.99,
+
+AB9Q1URY9UQFP
+2,Baseball Caps,19.02,6.0,
+1,New Jewelry,21.89,
+1,Jewelry: International Shipping Available,21.89,
+1,Amazon Curated Collection,21.89,
+1,Drop & Dangle,21.89,
+1,Novelty,21.89,
+1,Shoelaces,9.49,
+1,Coin Purses & Pouches,4.89,
+1,Women,9.99,
+1,Earrings,9.99,
+
+A2N92FH4MG2CUJ
+1,Casual Daypacks,29.41,
+
+A1F768QFXJE2LQ
+1,Women,9.99,
+1,Jewelry,9.99,
+
+A2YPE678YYFKS0
+1,Costumes,25.98,
+
+A218EJYUEYBPRX
+1,Hoop,28.99,
+1,Novelty,28.99,
+
+A2UC7KZLLQB8F
+1,Sunglasses,6.99,
+
+AZBRUD7FD8CEH
+1,New Arrivals,149.99,
+1,Jewelry: International Shipping Available,149.99,
+1,Fashion Watches,149.99,
+1,Available for International Shipping,149.99,
+1,FOSSIL,149.99,
+1,Fossil Watches,149.99,
+1,Wrist Watches,149.99,
+
+A2M9K7M61R8KS8
+1,Kids' Luggage,35.42,
+
+A3NENBN9YQ3I6P
+1,Rings,34.99,
+
+A32UPTDQ2ULS4T
+1,Jeans,22.76,
+
+A1HBCDED29993S
+1,Women,8.99,
+1,Novelty,8.99,
+
+A3557R25YAZV8U
+1,Cold Weather Gloves,12.0,
+
+A3OAMMWBT5JOT1
+1,Baseball Caps,10.34,
+
+A3UXXVARWVL7MQ
+1,Shoes & Accessories: International Shipping Available,69.95,
+1,MIA,69.95,
+1,Boots,69.95,
+
+A3TVBH2BRRISV5
+1,Jewelry: International Shipping Available,31.92,
+1,Available for International Shipping,31.92,
+1,Timex,31.92,
+1,Timex test,31.92,
+1,Wrist Watches,31.92,
+
+A2CTP4OPFSHHKN
+1,Fashion Scarves,11.99,
+
+AALEJC1QZ9PPI
+1,Women,8.8,
+1,Earrings,8.8,
+1,Brooches & Pins,42.5,
+1,Novelty,42.5,
+
+A21QTEHMNFUGO6
+1,Fashion Watches,86.55,
+1,Nixon Watches,86.55,
+1,Wrist Watches,86.55,
+
+A1QPX6XVZ7QDIH
+1,Wallets,12.99,
+1,Accessories,12.99,
+
+A1LMNZ88GOPKXR
+1,Gemstones,27.99,
+1,Jewelry Outlet,27.99,
+1,Pendants,27.99,
+2,Novelty,27.99,19.0,
+1,Necklaces,19.0,
+
+AD94YLN3FXXZE
+1,New Arrivals,29.99,
+1,Jewelry: International Shipping Available,29.99,
+1,Available for International Shipping,29.99,
+1,Timex,29.99,
+1,Timex test,29.99,
+1,Wrist Watches,29.99,
+1,Wallets,9.99,
+
+A25RBV0HYS8HSJ
+1,New Arrivals,186.81,
+1,Jewelry: International Shipping Available,186.81,
+1,Fashion Watches,186.81,
+1,Available for International Shipping,186.81,
+1,Wrist Watches,186.81,
+
+ALRAJYNP046F
+2,New Arrivals,125.0,54.96,
+2,Jewelry: International Shipping Available,125.0,54.96,
+2,Fashion Watches,125.0,54.96,
+2,Available for International Shipping,125.0,54.96,
+3,Wrist Watches,125.0,125.0,54.96,
+1,Invicta,54.96,
+
+A2GEOIGP7KG8N7
+1,BCBGMAXAZRIA,188.0,
+1,Night Out & Special Occasion,188.0,
+1,Women's Luxury Brands,188.0,
+
+A2VVDCAJRU1X33
+1,New Arrivals,26.39,
+1,Wrist Watches,26.39,
+
+ABY5LGYHGN881
+1,Women,9.99,
+1,Novelty,9.99,
+
+AQWH0J9B47POJ
+1,More Accessories,12.99,
+
+A2IK5E33IVIINC
+1,Clutches,19.99,
+
+A3KWUMYSO8ULVL
+1,Jewelry Armoires,115.54,
+
+A31TPXSPF115XV
+1,Pearl Strands,34.99,
+1,Novelty,34.99,
+1,Necklaces & Pendants,28.16,
+
+A1G1JBJ8GCQ0I7
+1,The SAK,84.0,
+1,Shoulder Bags,84.0,
+
+AAUCX3MN8W2YY
+2,New Arrivals,22.19,42.5,
+1,Jewelry: International Shipping Available,22.19,
+1,Available for International Shipping,22.19,
+2,Timex,22.19,42.5,
+1,Timex test,22.19,
+2,Women,22.19,42.5,
+2,Wrist Watches,22.19,42.5,
+1,Sport Watches,42.5,
+
+A2KEDHLY75B6W3
+1,Jewelry: International Shipping Available,28.69,
+1,Plain Silver Jewelry,28.69,
+1,Amazon Curated Collection,28.69,
+2,Pendants,28.69,28.69,
+1,Novelty,28.69,
+
+A1EPT4M6DH2YRN
+2,Athletic,9.59,9.59,
+1,Band & Music Fan,9.59,
+
+A3PP9IZVPD5020
+1,New Arrivals,162.08,
+1,Jewelry: International Shipping Available,162.08,
+2,Fashion Watches,162.08,229.0,
+1,Available for International Shipping,162.08,
+2,Michael Kors Watches,162.08,229.0,
+2,Wrist Watches,162.08,229.0,
+1,Watch Accessories,162.08,
+2,Women's Luxury Brands,162.08,229.0,
+
+A13VDVUVLXDLXI
+2,Fashion,39.99,23.99,
+2,Engagement Rings,39.99,23.99,
+
+A291IS8S18Z4MI
+1,Fashion Watches,12.49,
+1,Wrist Watches,12.49,
+
+AW8FRZJOCBE92
+1,Earmuffs,41.99,
+
+A3KEG7RVQ0B9YS
+1,Passport Wallets,14.22,
+
+A15C1125DG9F88
+1,New Arrivals,232.27,
+1,Jewelry: International Shipping Available,232.27,
+1,Fashion Watches,232.27,
+1,Available for International Shipping,232.27,
+2,Wrist Watches,232.27,232.27,
+
+AWLX2YQKP11QV
+1,Leg Avenue,6.52,
+1,Women,6.52,
+1,Hosiery,6.52,
+
+A1B3QJIYE1YAB6
+1,Clarks,67.99,
+1,Comfort Shoes,67.99,
+1,Flats,67.99,
+
+A1V6T3KGTRVMD7
+1,Fashion Waist Packs,14.99,
+
+A1I6GX0TBD6HZ
+1,Girls,6.03,
+1,Costumes & Accessories,6.03,
+
+A3PJAFFHDP0GIK
+1,New Jewelry,23.79,
+1,Jewelry: International Shipping Available,23.79,
+1,Plain Silver Jewelry,23.79,
+1,Amazon Curated Collection,23.79,
+1,Hoop,23.79,
+1,Novelty,23.79,
+
+A1M3JGAVW85D3T
+1,New Arrivals,5.95,
+1,Jewelry: International Shipping Available,5.95,
+1,Available for International Shipping,5.95,
+1,Watch Bands,5.95,
+
+A10B8W2X1PEMOZ
+1,Jewelry Boxes,29.95,
+
+A3LJS3OMF8RCJS
+1,Baseball Caps,13.99,
+1,New Arrivals,218.67,
+1,Seiko Watches,218.67,
+1,Wrist Watches,218.67,
+1,Anuschka,193.0,
+1,Shoulder Bags,193.0,
+
+A1H62S8TJNFZHO
+1,Wallets,43.07,
+1,Accessories,43.07,
+
+A1993D9P7BHDX3
+1,Carry-Ons,79.99,
+
+A3E98E4SNJ05BL
+1,Baseball Caps,6.95,
+
+A3SU5UEERJGME0
+1,Men,5.1,
+1,Sunglasses & Eyewear,5.1,
+1,Women,11.5,
+1,Earrings,11.5,
+
+A2P1I3JW8SQ2VO
+1,Hats & Caps,4.97,
+
+A3AKQVGILM5Q32
+2,Newsboy Caps,21.95,32.99,
+
+AX4WZ4NSJ101
+1,Necklaces & Pendants,59.9,
+1,Novelty,59.9,
+
+A2CIX8R226YPE5
+1,Wedding Rings,19.99,
+1,Novelty,19.99,
+
+A2TNE2JWQPHJ8Z
+1,Shoes & Accessories: International Shipping Available,89.99,
+1,Skechers,89.99,
+1,Comfort Shoes,89.99,
+1,Chukka,89.99,
+1,Boots,89.99,
+
+AYOL213U3XGY6
+1,Sport Watches,15.96,
+1,Timex,15.96,
+1,Timex test,15.96,
+1,Wrist Watches,15.96,
+
+ANT5H29CKZ3PW
+1,Girls,22.66,
+
+AL1F39CGQBJPJ
+1,Clothing,11.95,
+1,Sunglasses,11.95,
+
+A1UZSAAAG6RS81
+1,Briefcases,30.15,
+
+A1I71QKENK8850
+1,New Arrivals,87.5,
+1,Jewelry: International Shipping Available,87.5,
+1,Available for International Shipping,87.5,
+1,A-Line,87.5,
+1,Red Line/a_line,87.5,
+1,Wrist Watches,87.5,
+1,Watch Accessories,87.5,
+
+A2ARH86PSS0TIL
+1,ASICS,69.9,
+1,Volleyball,69.9,
+1,New Arrivals,66.37,
+1,Women,66.37,
+1,Wrist Watches,66.37,
+
+A2G467160XK7XS
+1,Sleepwear & Robes Sets,36.51,
+2,Women,0.01,0.99,
+1,Rings,0.01,
+2,Jewelry Outlet,2.99,0.99,
+1,Wedding Rings,2.99,
+1,Novelty,2.99,
+1,Eternity Rings,0.99,
+
+AMB9ZH72EMCPW
+1,Luggage Scales,19.95,
+
+A187NBQRWMUKBH
+1,Night Out & Cocktail,3.45,
+
+A35T0F87FVF49N
+1,Sun Hats,29.95,
+1,Visors,14.62,
+1,Combat,46.5,
+1,Street, Surf & Skate,46.5,
+2,Boots,46.5,46.5,
+
+A261WAZJLHR37M
+1,Jewelry: International Shipping Available,14.9,
+1,Plain Silver Jewelry,14.9,
+1,Amazon Curated Collection,14.9,
+2,Hoop,14.9,14.9,
+2,Novelty,14.9,48.0,
+1,Bangle,48.0,
+
+A1SXWOR7WRIFHY
+1,New Arrivals,80.15,
+1,Jewelry: International Shipping Available,80.15,
+1,Fashion Watches,80.15,
+1,Available for International Shipping,80.15,
+1,Skagen Watches,80.15,
+1,Wrist Watches,80.15,
+
+A15YNOHZ8I8PJ5
+1,Hats & Caps,15.0,
+
+A2ZV8MPSYS0LOR
+1,Wigs,13.6,
+
+A3J3H6IDDA93HK
+1,Tom Ford,194.95,
+1,Prescription Eyewear Frames,194.95,
+1,Sunglasses,7.25,
+
+A274UJJLT2T0TT
+1,Travel Duffels,17.99,
+
+A1F9XP2I812CNS
+1,New Arrivals,136.58,
+1,Jewelry: International Shipping Available,136.58,
+1,Fashion Watches,136.58,
+1,Available for International Shipping,136.58,
+1,Michael Kors Watches,136.58,
+1,Wrist Watches,136.58,
+1,Men,136.58,
+1,Women's Luxury Brands,136.58,
+1,Sperry Top-Sider,69.99,
+1,Water Shoes,69.99,
+
+A1IM53HMNDTAEL
+2,Tunics,29.99,29.99,
+
+A2KA8YDFVOK0RL
+1,Heart-Shaped Jewelry,25.99,
+2,Rings,25.99,25.99,
+1,Novelty,25.99,
+
+A1PYVOIB85FA0P
+1,New Arrivals,8.75,
+1,Jewelry: International Shipping Available,8.75,
+1,Available for International Shipping,8.75,
+1,Wrist Watches,8.75,
+
+A22X9F38FIUGIN
+1,Women,11.97,
+1,Novelty,11.97,
+
+A3JWURYWJL6938
+2,New Arrivals,38.79,69.99,
+2,Jewelry: International Shipping Available,38.79,69.99,
+2,Available for International Shipping,38.79,69.99,
+1,Timex,38.79,
+1,Timex test,38.79,
+2,Wrist Watches,38.79,69.99,
+1,Tops,16.0,
+1,Fashion Watches,69.99,
+1,Invicta,69.99,
+
+A12R174VOBCZ35
+1,New Arrivals,39.6,
+1,Jewelry: International Shipping Available,39.6,
+1,Available for International Shipping,39.6,
+2,Wrist Watches,39.6,39.6,
+
+A2N61CSF3IHLE2
+2,Fashion Scarves,11.99,14.69,
+
+A2G7B7FKP2O2PU
+1,Shoes & Accessories: International Shipping Available,35.38,
+1,Sanuk,35.38,
+1,Comfort Shoes,35.38,
+1,Street, Surf & Skate,35.38,
+1,Fashion Sneakers,35.38,
+
+A20VS71B72IJHF
+1,Kids & Baby,8.5,
+
+A32ZOB2K9028L2
+1,New Arrivals,60.33,
+1,Jewelry: International Shipping Available,60.33,
+1,Available for International Shipping,60.33,
+1,Wrist Watches,60.33,
+1,Dresses,22.99,
+
+A2BC28GYJFJ1CA
+2,Women,27.64,19.99,
+1,Bustiers & Corsets,19.99,
+
+AYB2HIMWVNE9J
+1,Shoes & Accessories: International Shipping Available,364.95,
+1,La Canadienne,364.95,
+1,Dress,364.95,
+1,Boots,364.95,
+
+A26Z6YDMYP7EJO
+1,Women,6.95,
+1,Earrings,6.95,
+1,New Arrivals,98.45,
+1,Jewelry: International Shipping Available,98.45,
+1,Fashion Watches,98.45,
+1,Available for International Shipping,98.45,
+1,Wrist Watches,98.45,
+
+A1T22O5UFYTIXT
+1,Men,4.96,
+1,Socks & Hosiery,6.18,
+1,Hosiery,6.18,
+1,Cold Weather Gloves,6.05,
+1,Clothing,11.95,
+1,Women,11.89,
+
+A1GO0AN8XR2M08
+1,Jumpsuits, Rompers & Overalls,28.0,
+1,Maternity,28.0,
+
+A2FTODW7TNOF6B
+1,Women,17.95,
+1,Necklaces & Pendants,17.95,
+
+A12HSGMKFRWVIY
+1,Promise Rings,29.99,
+1,Novelty,29.99,
+
+AH01DQKBZG7MC
+1,Jewelry: International Shipping Available,17.9,
+1,Amazon Curated Collection,17.9,
+1,Pendants,17.9,
+1,Novelty,17.9,
+1,Test Women AAQ,17.9,
+1,Accessories,4.55,
+
+ARP5JELGIX04T
+2,Sports Bras,34.0,34.0,
+1,Shoes & Accessories: International Shipping Available,99.95,
+1,New Balance,99.95,
+1,Walking,99.95,
+
+A1EPKYGDYFAJLG
+1,Accessories,15.99,
+1,Costumes & Accessories,15.99,
+
+A2R03O765H3FH2
+2,Clothing,22.5,78.0,
+1,Casual,22.5,
+1,Petite,22.5,
+1,Dresses,78.0,
+
+A3TPHTAELEF23K
+1,Earrings,20.0,
+
+A1PL7SES7GJQJZ
+1,Gifts for the Groomsmen,19.99,
+1,Wedding Rings,19.99,
+1,Novelty,19.99,
+
+AID1NKYNQ6IV9
+1,Women,1.99,
+1,Men,1.99,
+1,Novelty,1.99,
+
+A32Y0CIDGEHCQ3
+1,Men,15.18,
+1,Baseball Caps,15.18,
+
+ABOFZWXMU8AD2
+1,Bracelets,4.68,
+
+A1YQODYZFXFX3V
+1,Wedding Rings,18.95,
+1,Novelty,18.95,
+
+A1WTF3HWS31V9P
+2,Rompers,13.99,13.99,
+
+A2JSQ7XQA8VPIF
+1,Baby Boys,11.49,
+
+A44PEE0C28U0K
+1,Jewelry Towers,14.99,
+1,Belts,6.92,
+
+AXLFG6EJOVXV7
+1,Jewelry: International Shipping Available,45.99,
+1,Available for International Shipping,45.99,
+1,Sport Watches,45.99,
+1,Timex,45.99,
+1,Timex test,45.99,
+1,Wrist Watches,45.99,
+
+AUOUS71KIULPV
+1,Jewelry: International Shipping Available,33.26,
+1,Available for International Shipping,33.26,
+1,Watch Bands,33.26,
+
+A08978172NQWR981CGNSP
+1,Polishes & Dyes,6.99,
+
+A3FRXKYSU6M7JC
+1,Shoes & Accessories: International Shipping Available,29.97,
+1,Yellow Box,29.97,
+1,Sandals,29.97,
+
+A14FBEL49L0GG
+1,Jewelry Towers,14.99,
+
+A1AVTWQT4YOGH0
+1,Windbreakers,20.99,
+2,Big & Tall,20.99,19.99,
+1,Shells,19.99,
+1,Necklaces,39.99,
+1,Novelty,39.99,
+
+ATRXK66ELV175
+1,Citizen,101.5,
+1,Wrist Watches,101.5,
+1,Dickies,13.4,
+1,Men,13.4,
+1,Wallets,13.4,
+1,Accessories,13.4,
+1,Bates,32.55,
+1,Casual Socks,32.55,
+
+A3TD593M3K1F5Z
+3,Boys,32.98,32.98,14.99,
+1,Girls,32.98,
+
+A36KXEGDQAN26C
+1,New Arrivals,22.99,
+1,Jewelry: International Shipping Available,22.99,
+1,Available for International Shipping,22.99,
+1,Wrist Watches,22.99,
+
+ANBHJ7D2ZRX7W
+2,Casual,34.99,34.99,
+3,Night Out & Cocktail,34.99,34.99,18.79,
+
+AXWE28AVNQX21
+1,Wrist Watches,20.17,
+
+A212G6M8A8W4QE
+1,New Jewelry,20.21,
+1,Jewelry: International Shipping Available,20.21,
+1,Amazon Curated Collection,20.21,
+2,Stud,20.21,20.21,
+1,Novelty,20.21,
+
+AG38SCV6268OJ
+1,Kids & Baby,18.27,
+
+AEY4SQUZ6B53A
+1,New Arrivals,103.34,
+1,Fashion Watches,103.34,
+1,Invicta,103.34,
+1,Wrist Watches,103.34,
+
+A3OOY73YVPR99X
+1,Women,8.8,
+1,Earrings,8.8,
+
+A33UDCT995JSKD
+1,Casual,16.0,
+
+A1NUBAJ1YQCKVP
+1,Women,29.02,
+
+A2HMPCXWIKM813
+1,Wallets,9.99,
+1,Board Shorts,29.95,
+
+AGS5C4B1HSW1E
+3,Earrings,49.95,49.95,49.95,
+1,Novelty,49.95,
+
+A2EW8EA61DLUJA
+2,Leg Warmers,8.53,8.53,
+1,Accessories,8.53,
+
+A6X5ZEWEEVF7F
+2,Wrist Watches,8.81,8.5,
+1,Women,8.38,
+1,Necklaces & Pendants,8.38,
+1,Rings,14.99,
+
+A1ZAL9MMA9LUBV
+1,Women,15.99,
+1,Necklaces & Pendants,15.99,
+
+A3KPAQ6587QP3L
+1,New Arrivals,14.99,
+1,Women,14.99,
+1,Wrist Watches,14.99,
+
+A1N9AIQ75P3J5W
+1,Women,9.5,
+1,Necklaces & Pendants,9.5,
+
+A1LSFXHM5OCRJ2
+1,Belts,25.0,
+
+A3NYA6SQGZTOQU
+1,Timberland,15.67,
+1,Wallets,15.67,
+1,Accessories,15.67,
+
+AH3DM3YECXKHA
+1,Shoes & Accessories: International Shipping Available,79.95,
+1,New Balance,79.95,
+1,Walking,79.95,
+
+A2NEHQUOHJPI34
+1,New Arrivals,52.45,
+1,adidas,52.45,
+1,adidas Watches,52.45,
+1,Women,52.45,
+1,Wrist Watches,52.45,
+
+A1E4V2Q576CJ7Y
+1,Pearl Jewelry,7.99,
+1,Women,7.99,
+1,Earrings,7.99,
+
+A1AVSJ2RCDX4JX
+1,Casual,4.99,
+
+A3HMJ3LI48TJD5
+1,Polishes & Dyes,8.51,
+
+A3IWQNLDUPZZ7R
+1,New Jewelry,24.9,
+3,Jewelry: International Shipping Available,24.9,30.51,55.38,
+1,Plain Silver Jewelry,24.9,
+3,Amazon Curated Collection,24.9,30.51,55.38,
+1,Chains,24.9,
+4,Novelty,24.9,23.98,30.51,55.38,
+1,Stud,23.98,
+2,Women,13.99,14.99,
+2,Necklaces & Pendants,13.99,30.51,
+1,Earrings,14.99,
+2,Y-Necklaces,30.51,30.51,
+1,Test Women AAQ,30.51,
+1,Gemstones,55.38,
+1,Pendants,55.38,
+
+A399SXCPU1RUOW
+1,Neckties,11.04,
+
+A1FQLT6WY5K3KQ
+1,Wallets,9.99,
+
+A1M3W5FNAXHWL8
+1,Jackets,49.99,
+
+A34QYTBM93S2IJ
+1,New Arrivals,110.0,
+1,Jewelry: International Shipping Available,110.0,
+1,Fashion Watches,110.0,
+1,Available for International Shipping,110.0,
+1,Anne Klein,110.0,
+1,Wrist Watches,110.0,
+
+A2MYQDRO918Q7J
+1,Bomber Hats,9.99,
+
+A2DEI3JIWXPM60
+1,Women,8.99,
+1,Necklaces & Pendants,8.99,
+
+A3U1IP4B69OCR
+1,Jewelry: International Shipping Available,52.37,
+1,Fashion Watches,52.37,
+1,Available for International Shipping,52.37,
+1,Anne Klein,52.37,
+1,Wrist Watches,52.37,
+
+A9VJ22XQPJZ30
+2,Baseball Caps,11.95,11.95,
+1,Women,11.95,
+1,Men,11.95,
+
+A2S36HLUHYPBG1
+1,Exotic Apparel,22.0,
+1,Pads & Enhancers,35.8,
+
+A1CXTUOQGPZ3XG
+1,Women,16.99,
+1,Charms,16.99,
+
+A3GAQY73U7S5NT
+1,Women,19.8,
+1,Bracelets,19.8,
+
+A20OE3R8X4MYRB
+1,Jewelry: International Shipping Available,31.92,
+1,Available for International Shipping,31.92,
+1,Timex,31.92,
+1,Timex test,31.92,
+1,Wrist Watches,31.92,
+
+A27ZS6H8XWK1TE
+1,Gemstones,38.02,
+1,Necklaces & Pendants,38.02,
+1,Jewelry: International Shipping Available,38.02,
+1,Amazon Curated Collection,38.02,
+2,Strands,38.02,38.02,
+1,Novelty,38.02,
+
+AEI85MOYBC8YU
+2,Sunglasses,19.95,19.95,
+1,Masks,31.13,
+
+A3L54TUPBNC929
+1,Robes,279.0,
+
+A2P4VOHABA5QYV
+1,Jewelry Boxes,14.95,
+
+A13700V9KSR9VP
+1,More Accessories,7.19,
+1,Costumes,7.19,
+
+AXFXEY3P7D5XK
+1,Robes,39.5,
+
+A1C9HX4VO6SQ09
+1,Shoes & Accessories: International Shipping Available,78.95,
+1,Pumps,78.95,
+1,Down & Down Alternative,61.99,
+
+A35N5WEM8RQI55
+1,Casual Daypacks,59.89,
+
+A3JLR4P1U5NFMF
+1,Jewelry: International Shipping Available,29.5,
+1,Available for International Shipping,29.5,
+1,Sport Watches,29.5,
+1,Timex,29.5,
+1,Timex test,29.5,
+1,Wrist Watches,29.5,
+
+A3EBZZ5QNZ2LLE
+1,Women,7.44,
+1,Watches,7.44,
+
+AT1MX3A14K9O3
+1,Women,6.99,
+1,Jewelry,6.99,
+1,Barbells,6.99,
+
+A2I7A2SETVWKXL
+1,Top-Handle Bags,20.33,
+1,Wallets,9.95,
+1,Accessories,9.95,
+
+A2JC3NNXBTY45E
+1,Wallets,33.99,
+1,Messenger Bags,39.49,
+1,Shoe Care & Accessories,15.95,
+
+A1O9NZQSAOQX2A
+1,Pearl Jewelry,15.99,
+2,Women,15.99,8.99,
+2,Earrings,15.99,8.99,
+
+A1PL4YNHK2Q8MA
+1,Women,25.59,
+
+A3418PBUNNJ5OW
+1,Kenneth Cole REACTION,103.99,
+1,Messenger Bags,103.99,
+
+A3QO1HFDXJWI49
+1,Suspenders,14.95,
+
+AYQKHM8O1G630
+1,Polishes & Dyes,1.53,
+
+A2RNBMOC5WQMEN
+1,JiMarti,29.95,
+2,Sunglasses,29.95,29.95,
+
+A3TSWKTAEQ2KFC
+1,Special Occasion,29.99,
+
+AETGO6ET5LWIK
+1,Kids' Backpacks,11.06,
+
+A3PK7104AS3HN2
+1,Shoes & Accessories: International Shipping Available,12.5,
+1,Packing Organizers,12.5,
+
+A1R3TC3Y069VRC
+1,Men,14.99,
+1,Clothing,14.99,
+2,T-Shirts,14.99,14.99,
+
+A35TYPRYFVC3F2
+1,Bridal Sets,34.99,
+1,Men,34.99,
+2,Novelty,34.99,18.99,
+1,Wedding Rings,18.99,
+
+A3R552TLDIDKS
+2,Jewelry: International Shipping Available,175.0,157.5,
+2,Available for International Shipping,175.0,157.5,
+2,Citizen,175.0,157.5,
+2,Wrist Watches,175.0,157.5,
+1,New Arrivals,157.5,
+
+AOUEW4LOYI4W0
+1,New Arrivals,152.5,
+1,Fashion Watches,152.5,
+1,Michael Kors Watches,152.5,
+1,Women,152.5,
+1,Wrist Watches,152.5,
+1,Women's Luxury Brands,152.5,
+
+ATZU91FEFNUZ4
+1,New Arrivals,99.0,
+1,Jewelry: International Shipping Available,99.0,
+1,Available for International Shipping,99.0,
+1,Kenneth Cole New York,99.0,
+1,Kenneth Cole,99.0,
+1,Women,99.0,
+1,Wrist Watches,99.0,
+
+A24QVTCBE99CUP
+1,Adhesive Bras,5.3,
+
+A1NGEJBGO2K704
+1,Hats & Caps,19.95,
+
+A34CVBJJWMA3A3
+1,Carry-Ons,265.13,
+
+A22IPSYV75S95Q
+1,Christening,55.0,
+
+A26R29NPXGXMJX
+1,Sunglasses,4.48,
+
+A2JXMRDXNWSWRW
+1,Travel Accessories,19.99,
+1,Fashion Waist Packs,19.99,
+1,Sun Hats,20.18,
+
+AD6A66N05DYUF
+1,New Jewelry,67.79,
+1,Jewelry: International Shipping Available,67.79,
+1,Amazon Curated Collection,67.79,
+2,Cuff,67.79,67.79,
+1,Novelty,67.79,
+1,Test Women AAQ,67.79,
+
+A1WZTQTCEABJJ2
+2,Hair Accessories,21.45,18.95,
+
+A3PMC0BS1S4QCC
+1,Clothing,9.99,
+1,Baseball Caps,9.99,
+
+A2J6GZCT4R7U1C
+1,Umbrellas,17.99,
+1,Skullies & Beanies,19.95,
+
+A1RFJHD9JT4HY3
+1,Wallets,21.0,
+1,Accessories,21.0,
+
+A19DDEMC2PP68R
+1,Casual Daypacks,7.14,
+1,Girls,16.0,
+1,Boys,16.0,
+
+A1OYVXLLFH4D69
+1,Women,11.99,
+1,Rings,11.99,
+
+AJWH60HEZR209
+1,Casual Socks,10.0,
+1,Socks,10.0,
+1,Accessories,10.0,
+1,New Arrivals,51.98,
+1,Jewelry: International Shipping Available,51.98,
+1,Available for International Shipping,51.98,
+1,Wrist Watches,51.98,
+1,Gemstones,49.99,
+1,Stud,49.99,
+1,Novelty,49.99,
+1,Nightgowns & Sleepshirts,29.95,
+
+A1X4KCLXM0JJWV
+1,Shoulder Bags,39.99,
+
+AQB2KL69VIJV8
+1,Women,8.99,
+1,Jewelry,8.99,
+1,Screws,8.99,
+
+A2KU4BQ3K1LBSB
+1,Women,2.98,
+1,Jewelry,2.98,
+1,Screws,2.98,
+
+A24AX6XPAI6WOK
+1,Jewelry: International Shipping Available,166.85,
+1,Available for International Shipping,166.85,
+1,Timex,166.85,
+2,Wrist Watches,166.85,166.85,
+
+A7PR4RUMM41CB
+1,Men,26.44,
+1,Chains,24.95,
+1,Novelty,24.95,
+
+AV7JHPDVA24NI
+1,Bangle,9.99,
+1,Novelty,9.99,
+1,Evening Bags,24.99,
+1,Suitcases,70.62,
+1,Shoes & Accessories: International Shipping Available,59.95,
+1,Winter Promo,59.95,
+1,Bearpaw,59.95,
+1,Boot Shop,59.95,
+1,Boots,59.95,
+1,Fashion Watches,6.9,
+1,Wrist Watches,6.9,
+
+A18BKEMDQ8M2GN
+1,Wallets,11.21,
+3,Jewelry: International Shipping Available,29.12,22.38,18.89,
+3,Amazon Curated Collection,29.12,22.38,18.89,
+1,Pendants,29.12,
+3,Novelty,29.12,22.38,18.89,
+2,New Jewelry,22.38,18.89,
+3,Drop & Dangle,22.38,22.38,18.89,
+3,Robes,59.95,59.95,49.95,
+
+A24TO8NO39N3SM
+1,Shoes & Accessories: International Shipping Available,35.0,
+1,Athena Alexander,35.0,
+1,Sandals,35.0,
+
+A1VC8BGALRJ9E1
+1,Shoes & Accessories: International Shipping Available,99.0,
+1,Comfort Shoes,99.0,
+1,Street, Surf & Skate,99.0,
+1,Mules & Clogs,99.0,
+1,Athletic,99.0,
+
+A1GDQO204QP3Y2
+1,New Arrivals,123.99,
+1,Fashion Watches,123.99,
+1,Tommy Hilfiger,123.99,
+1,Wrist Watches,123.99,
+
+A2P6ZD5R18X6JK
+1,Suspenders,10.95,
+
+A345JF6Y6E6VU8
+2,Jewelry: International Shipping Available,120.0,95.0,
+2,Shop by Designer,120.0,95.0,
+2,Nina,120.0,95.0,
+1,Pendants,120.0,
+2,Novelty,120.0,95.0,
+1,Bracelets,95.0,
+
+A3K0J2SSX731LV
+1,Gifts for the Groomsmen,9.99,
+1,Jewelry,9.99,
+1,Novelty,9.99,
+
+A3LS1GJBKHP5EB
+1,Nightgowns & Sleepshirts,8.85,
+
+AKGEHFVXE0T17
+1,Undershirts,19.56,
+1,Big & Tall,19.56,
+
+A30VMDAA2B3URX
+1,New Arrivals,24.66,
+1,Women,24.66,
+1,Wrist Watches,24.66,
+
+A3VKAZYC5ANCEF
+1,Shoes & Accessories: International Shipping Available,79.99,
+1,Pumps,79.99,
+1,Sandals,19.99,
+
+A2P88H90J10ZY6
+1,Costumes,15.63,
+
+A1PI1IVY2GO0CX
+1,Wedding Rings,26.99,
+1,Novelty,26.99,
+
+A1AM8I2FJRZJ9P
+1,New Arrivals,59.99,
+1,Jewelry: International Shipping Available,59.99,
+1,Available for International Shipping,59.99,
+1,Red Line/a_line,59.99,
+1,Wrist Watches,59.99,
+
+ARU7BVRFVRKQM
+1,Pearl Jewelry,39.99,
+1,Pearl Strands,39.99,
+1,Novelty,39.99,
+
+A1Z9GQ1U02HRM5
+1,Luggage & Travel Gear,34.97,
+
+AYQ6MSN3SXVZB
+1,New Arrivals,48.89,
+1,Jewelry: International Shipping Available,48.89,
+1,Fashion Watches,48.89,
+1,Available for International Shipping,48.89,
+1,Wrist Watches,48.89,
+
+A29RXC9WIWPAJJ
+2,G-Strings & Thongs,15.99,15.99,
+4,Big & Tall,15.99,15.99,18.99,18.99,
+2,Boxer Briefs,18.99,18.99,
+
+A1NDLNXX0VNYWP
+1,Shoe Care & Accessories,19.99,
+
+A2YZP4SEDMDHJJ
+1,Men,25.95,
+1,Socks,25.95,
+1,Women,13.99,
+1,Rings,13.99,
+
+A1H367HMITAITW
+1,New Arrivals,59.99,
+1,Jewelry: International Shipping Available,59.99,
+1,Fashion Watches,59.99,
+1,Available for International Shipping,59.99,
+1,Invicta,59.99,
+1,Wrist Watches,59.99,
+
+AX7IYDF9VX88A
+1,Wallets,12.99,
+1,Accessories,12.99,
+
+A3AKTRMLBDLROG
+1,Heart-Shaped Jewelry,20.99,
+1,Bands,20.99,
+2,Novelty,20.99,45.95,
+2,Rings,45.95,45.95,
+
+AIVCWHT1L3KAZ
+1,Accessories,59.95,
+2,Men,59.95,59.95,
+
+A2T5TR99PC0JU3
+1,Earrings,0.96,
+
+A2LI687BU9KYJZ
+1,Bracelets,4.45,
+1,Women,3.5,
+1,Necklaces & Pendants,3.5,
+1,Novelty,1.57,
+
+A19TTCRVZJHMEP
+1,Jewelry: International Shipping Available,29.0,
+1,Plain Silver Jewelry,29.0,
+1,Amazon Curated Collection,29.0,
+1,Pendants,29.0,
+1,Novelty,29.0,
+1,Test Women AAQ,29.0,
+
+ADISAGI28JW0E
+1,Briefcases,42.04,
+
+A1XRCJNF7VKAMM
+1,Shoes & Accessories: International Shipping Available,120.0,
+1,Dansko,120.0,
+1,Comfort Shoes,120.0,
+1,Sandals,120.0,
+
+AY3NW7PW99W8Z
+1,Women,9.25,
+1,Novelty,9.25,
+1,Military,9.25,
+
+A2H78WPMPEDQ12
+2,Wedding Dresses,140.0,140.0,
+
+A2CBEC3KB77FSI
+1,Berets,7.99,
+
+A102SLZLSMAXRE
+1,Wrist Watches,20.52,
+
+A164FP2HN9AQPH
+1,Denim,24.99,
+
+AWNRVVK0MDKW
+1,New Arrivals,21.99,
+1,Jewelry: International Shipping Available,21.99,
+1,Fashion Watches,21.99,
+1,Available for International Shipping,21.99,
+1,Wrist Watches,21.99,
+
+A1GQP5PZ3IHF9B
+1,Bikinis,30.99,
+
+A38237UVRNPVWK
+1,New Arrivals,52.0,
+1,Jewelry: International Shipping Available,52.0,
+1,Fashion Watches,52.0,
+1,Available for International Shipping,52.0,
+1,Ice-Watch,52.0,
+2,Wrist Watches,52.0,52.0,
+
+A2ITEFSXGHDI1Q
+2,Women,7.75,3.99,
+1,Novelty,7.75,
+1,Charms,3.99,
+
+A20JZ4EX44VN8P
+1,Pullovers,39.99,
+
+A36266TSLQ0G66
+1,Shoes & Accessories: International Shipping Available,47.99,
+1,Wild Diva,47.99,
+1,Sandals,47.99,
+1,Bikinis,19.99,
+
+A1UBL3C9Z428VE
+1,Sunglasses,15.99,
+
+A2YK6E62IXPJB4
+1,Women,4.52,
+1,Necklaces & Pendants,5.99,
+1,Novelty,5.99,
+
+AZPI3Y68EUMMT
+1,Boots,94.95,
+
+A3I5FRC228R94Y
+1,New Arrivals,17.47,
+1,Wrist Watches,17.47,
+
+A7TJAWWHRS5KY
+1,Gemstones,58.99,
+1,Pendants,58.99,
+1,Novelty,58.99,
+1,Women,6.88,
+1,Necklaces & Pendants,6.88,
+
+AD88J7IQ164GA
+1,Suitcases,49.21,
+
+A2ZV8QERP589SK
+1,Women,11.99,
+1,Dresses,11.99,
+
+A2T1T0UNYX4TXL
+1,Shoes & Accessories: International Shipping Available,74.71,
+1,Ray-Ban,74.71,
+1,Sunglasses,74.71,
+
+A33IWUBTR32VGC
+1,Costumes & Accessories,45.99,
+1,Exotic Apparel,45.99,
+
+A2LFB5AVRPD4YW
+1,Diamonds,549.99,
+1,Engagement Rings,549.99,
+1,Novelty,549.99,
+
+A1M1QD6MY083EU
+1,Men,27.5,
+1,Rain Footwear,22.42,
+
+A2D47N3L2G9XG
+1,Shoes & Accessories: International Shipping Available,75.0,
+1,Franco Sarto,75.0,
+1,Sandals,75.0,
+
+A2I50LU7LJLGH7
+1,Shoes & Accessories: International Shipping Available,56.95,
+1,Pleaser,56.95,
+1,Women,56.95,
+1,Men,56.95,
+
+AA4IQQ6TVP3I
+1,Kids & Baby,8.75,
+
+A2QLHWOICQSUIH
+1,Fashion Watches,136.18,
+1,Swatch Watches,136.18,
+1,Wrist Watches,136.18,
+
+AF5B2IH1LD187
+1,Wallets,42.0,
+1,Accessories,42.0,
+
+A1VR5KMBXGLU90
+1,Shoes & Accessories: International Shipping Available,164.99,
+1,Fashion,164.99,
+1,Boots,164.99,
+1,Women's Luxury Brands,164.99,
+
+A24WDETW5W9BHK
+1,Fur & Faux Fur,126.99,
+
+AHO2RME8LV9QD
+4,Jewelry: International Shipping Available,15.58,13.13,19.15,72.3,
+4,Amazon Curated Collection,15.58,13.13,19.15,72.3,
+1,Drop & Dangle,15.58,
+7,Novelty,15.58,34.99,46.99,13.13,19.15,72.3,22.99,
+5,Gemstones,34.99,13.13,9.99,16.98,19.99,
+1,Jewelry Outlet,34.99,
+1,Heart-Shaped Jewelry,34.99,
+1,Bead,34.99,
+1,Diamonds,46.99,
+1,Rings,46.99,
+9,Women,14.99,9.99,16.98,12.2,19.99,0.01,12.95,11.95,10.99,
+7,Necklaces & Pendants,14.99,16.98,16.98,12.2,19.99,12.95,11.95,
+1,Wraps & Pashminas,7.99,
+1,Pendants,13.13,
+1,Plain Silver Jewelry,19.15,
+2,Chains,19.15,22.99,
+1,Bracelets,9.99,
+1,Men,39.0,
+1,T-Shirts,39.0,
+2,Tennis,72.3,72.3,
+2,Earrings,0.01,10.99,
+
+A2AUE1JRX107ZM
+1,Masks,40.82,
+
+A33TNEDM8M52N5
+1,Costumes & Accessories,14.63,
+1,Costumes,14.63,
+1,Women,5.06,
+2,Girls,9.99,9.99,
+
+A19X3OBD5KZH30
+1,Casual Daypacks,29.41,
+
+A1Z2I3F8SAMQSK
+1,Men,12.99,
+1,Wallets,12.99,
+1,Accessories,12.99,
+
+AXQVIU80V4XOC
+1,Women,0.75,
+1,Jewelry,0.75,
+1,Retainers,0.75,
+
+A16FWPR67T0R6I
+2,Watch Bands,12.95,12.95,
+
+A2HJYYFS515E49
+1,Luggage Straps,22.32,
+
+A1R9U2OOP95CQY
+1,Gifts,15.96,
+2,Jewelry: International Shipping Available,15.96,29.73,
+1,Girls,15.96,
+1,Watch Gifts,15.96,
+2,Available for International Shipping,15.96,29.73,
+2,Timex,15.96,29.73,
+2,Timex test,15.96,29.73,
+2,Wrist Watches,15.96,29.73,
+1,Boys,15.96,
+1,New Arrivals,29.73,
+1,Gifts for the Bride,19.99,
+3,Women,19.99,8.95,19.99,
+2,Earrings,19.99,19.99,
+2,Accessories,8.95,18.95,
+1,Shoes & Accessories: International Shipping Available,49.95,
+1,Rampage,49.95,
+2,Boots,49.95,49.95,
+1,Jewelry Outlet,19.99,
+1,Dress Socks,10.5,
+1,Loafers & Slip-Ons,12.99,
+1,Fashion Scarves,16.95,
+
+A2W5PD0M83ZKLS
+1,Women,11.0,
+1,Novelty,11.0,
+
+A2AOP051RU26SD
+1,Rash Guards,19.99,
+
+A32ZYWHNHOILOZ
+1,Sandals,27.0,
+
+A37J7BQKUU1DUL
+1,Boots,28.99,
+
+A2UDX6NM11LD12
+1,Fashion Watches,132.95,
+1,Diesel,132.95,
+1,Diesel Watches,132.95,
+2,Wrist Watches,132.95,132.95,
+1,Watch Accessories,132.95,
+1,Women's Luxury Brands,132.95,
+
+A34796S9M2YEI7
+1,Shoulder Bags,18.37,
+1,Accessories,18.37,
+
+A22ZC1LILZXUQY
+1,Fashion Sneakers,59.99,
+
+A3NDYHCWZGO3PO
+1,Briefcases,18.99,
+
+A23VI9VJFQ3ZAS
+1,Wallets,16.87,
+
+A34LVMGIN2P9HT
+1,Accessories,13.99,
+
+A18WRGMMQF4FUI
+1,Shoes & Accessories: International Shipping Available,55.0,
+1,Khombu,55.0,
+1,Boots,55.0,
+
+A3KHO8TVHFM32U
+1,New Arrivals,43.0,
+1,Jewelry: International Shipping Available,43.0,
+1,Available for International Shipping,43.0,
+2,Wrist Watches,43.0,89.99,
+1,Citizen,89.99,
+1,GUESS by Marciano,136.0,
+1,Prescription Eyewear Frames,136.0,
+
+A12G3DW8ID6JS0
+1,Men,22.99,
+1,Novelty,22.99,
+
+A11IZN7H0CASOB
+1,Checkbook Covers,9.95,
+1,Women,10.99,
+1,Necklaces & Pendants,10.99,
+
+A13OG1NLPNY3ID
+1,Wallets,9.44,
+1,Accessories,9.44,
+
+A35LXNHJ8VMNSZ
+1,Shoes & Accessories: International Shipping Available,44.95,
+1,Kenneth Cole REACTION,44.95,
+1,Boots,44.95,
+
+A29MYDFCARXUC2
+1,Wedding Rings,21.99,
+1,Novelty,21.99,
+
+AG7DA5TH5FFUE
+1,Steve Madden,15.96,
+2,Leggings,15.96,15.96,
+
+A233V3MHNP9856
+1,Shoes & Accessories: International Shipping Available,31.95,
+1,Roxy,31.95,
+1,Cross-Body Bags,31.95,
+1,Accessories,31.95,
+
+A19HMRV92OQ5U9
+3,Pearl Jewelry,133.0,312.0,166.0,
+2,Jewelry Outlet,133.0,312.0,
+2,Gifts for the Bride,133.0,166.0,
+3,Pearl Strands,133.0,312.0,166.0,
+3,Novelty,133.0,312.0,166.0,
+1,Wedding Party Gifts,312.0,
+1,Shoes & Accessories: International Shipping Available,118.0,
+1,HARVEYS,118.0,
+2,Cross-Body Bags,118.0,229.85,
+1,Top-Handle Bags,118.0,
+1,COACH,229.85,
+1,Women's Luxury Brands,229.85,
+1,Travel Duffels,68.0,
+
+A2KF6Y8KC1DJQH
+1,Belts,12.39,
+1,Necklaces & Pendants,12.39,
+2,Shrugs,24.99,24.99,
+
+A2PWFOFJQO46RZ
+1,Women,14.99,
+1,Engagement Rings,14.99,
+
+A2YMGFWFCGXC0
+1,Wraps & Pashminas,12.99,
+
+A1DSX1U6EK8R6K
+1,Jewelry: International Shipping Available,5.99,
+1,Available for International Shipping,5.99,
+1,Repair Tools & Kits,5.99,
+
+A3SO9RYSU2Z3Z1
+1,Wrist Watches,5.5,
+
+A1CF3ITZJSMUGU
+1,Cold Weather Scarves,34.99,
+
+A4RHMAZ5QN3TJ
+1,IZOD,35.99,
+2,Jeans,35.99,35.99,
+1,Watch Bands,11.96,
+
+A25RZAO9SMAYHK
+2,Women,1.99,21.4,
+1,Earrings,1.99,
+1,Jewelry: International Shipping Available,47.72,
+1,Amazon Curated Collection,47.72,
+1,Hoop,47.72,
+1,Novelty,47.72,
+1,Bracelets,21.4,
+
+A3ONHXN07PAF7M
+2,Tank Tops,26.99,26.99,
+2,Board Shorts,49.5,49.5,
+
+ALWO9OHYW45LV
+2,Vests,20.0,20.0,
+
+A1ZAG8TXHK9CV6
+1,Handkerchiefs,10.5,
+
+A17PW45P2ASH4K
+1,Baby Boys,11.49,
+
+A2MN6OWGKRDC95
+1,Sun Hats,18.08,
+
+A1CENU8GRV9J66
+1,Earmuffs,17.45,
+
+A1VNW2I20UX8EU
+1,Cleaning & Care,19.99,
+
+AMUCNEJPS1TKO
+1,Sandals,49.95,
+
+A124NXSCRY33E5
+2,Rings,16.0,16.0,
+
+A2SJ4TOCZF3AE3
+1,Fashion Scarves,10.99,
+
+A1SJEN4XLQ9ORI
+1,Balaclavas,13.95,
+
+A30XPWLTQ8J8CN
+1,Girls,14.97,
+1,Novelty,14.97,
+
+A18IOC23QE4GH7
+2,Cuff Links,29.99,29.99,
+1,Novelty,29.99,
+
+A2OXKAV4EI64Y5
+1,Wrist Watches,580.06,
+
+AU4ZEQPNB6S9K
+1,Hats & Caps,21.99,
+
+A74XWH3524XIR
+1,Jewelry,18.0,
+1,Novelty,18.0,
+
+AGHQ3X8B77LEL
+1,New Arrivals,129.95,
+1,Jewelry: International Shipping Available,129.95,
+1,Available for International Shipping,129.95,
+1,Wrist Watches,129.95,
+
+A1XOKCIE0VIGA7
+2,Top-Handle Bags,35.5,29.99,
+1,Shoulder Bags,35.5,
+
+A2UQUGJASCP4WC
+1,New Arrivals,120.75,
+1,Jewelry: International Shipping Available,120.75,
+1,Available for International Shipping,120.75,
+1,Wrist Watches,120.75,
+
+A2U25N1HLK4AF2
+1,Shoes & Accessories: International Shipping Available,74.96,
+1,Winter Promo,74.96,
+1,LaCrosse,74.96,
+2,Hunting,74.96,74.96,
+
+AQBKG9XMN83WF
+1,Boxer Briefs,22.39,
+
+ALVCEA155SL2V
+1,Jewelry: International Shipping Available,26.0,
+1,Available for International Shipping,26.0,
+1,Timex,26.0,
+1,Timex test,26.0,
+1,Wrist Watches,26.0,
+
+A8310SHNLGO48
+1,Wrist Watches,8.87,
+
+A1JBP3UKN0ENRA
+1,Women,16.95,
+1,Wrist Watches,16.95,
+
+A3624AOYS708J4
+1,More Accessories,4.99,
+
+A2035ROH4VOCFB
+1,Vera Bradley,27.99,
+1,Wristlets,27.99,
+
+A3L0U6JGDBWALN
+1,Casual Daypacks,39.99,
+
+A1FWVBTBJFE3Z4
+1,Sun Hats,23.95,
+
+A2GJW4SH8S4Z9R
+1,Dickies,20.63,
+1,Casual Button-Down Shirts,20.63,
+1,Big & Tall,20.63,
+2,Buttons & Pins,7.99,7.99,
+1,Accessories,7.99,
+
+A36V7A3U3YRKHL
+1,Card Cases,4.57,
+1,Accessories,4.57,
+
+AA7XSK05OHTM3
+1,Baby Boys,11.49,
+
+A2A5KYW5CJA45P
+1,Wallets,12.99,
+1,Accessories,12.99,
+1,Baby Girls,16.99,
+1,Baby Boys,16.99,
+2,Bodysuits,16.99,16.99,
+1,Jewelry Sets,21.2,
+1,Novelty,21.2,
+1,Pumps,18.99,
+
+A2WR7PUT281UQM
+1,Women,19.99,
+1,T-Shirts,19.99,
+
+A1V2H1FZ7ICZQJ
+1,COACH,92.99,
+1,Sunglasses,92.99,
+
+A3PAQ487QIU5JY
+1,Shoes & Accessories: International Shipping Available,69.95,
+1,Madden Girl,69.95,
+1,Western,69.95,
+1,Boots,69.95,
+1,Cross-Body Bags,18.85,
+
+A2HPFJLUOCL6J2
+3,Shoes & Accessories: International Shipping Available,67.96,269.0,195.0,
+1,New Balance,67.96,
+1,Fitness & Cross-Training,67.96,
+2,Comfort Shoes,269.0,195.0,
+1,Loafers & Slip-Ons,269.0,
+1,Kickers,195.0,
+1,Boots,195.0,
+
+A3ILEIMDUJ3SRY
+1,Pendants,149.95,
+1,Novelty,149.95,
+
+ACCJWHLAYTPFM
+1,Jewelry: International Shipping Available,10.95,
+1,Women,10.95,
+1,Brooches & Pins,10.95,
+
+A56LW51O5A79A
+1,Clothing,19.95,
+1,Casual,19.95,
+
+A3B1PQHMO2NIFQ
+1,Belt Buckles,12.99,
+
+A22OKQFZK10WXS
+1,Rings,9.94,
+1,Jewelry,9.94,
+1,Jewelry Outlet,14.99,
+1,Wedding Rings,14.99,
+1,Novelty,14.99,
+
+A3J7Y88O7X4P5V
+1,Cleaning & Care,5.02,
+1,Hamilton Watches,678.99,
+1,Wrist Watches,678.99,
+1,Umbrellas,45.34,
+
+A161OYTFIXTJZE
+4,Cover-Ups,26.99,26.99,21.99,21.99,
+
+A103GDNG31IETH
+1,Shoes & Accessories: International Shipping Available,54.95,
+1,Saucony,54.95,
+1,Running,54.95,
+
+A2B7XMO889KHZ
+1,Women,313.4,
+1,Jewelry,313.4,
+
+A1ZKDM7CB84TYE
+1,Women,5.95,
+1,Bracelets,5.95,
+
+A3O3NUXW7K7OBS
+1,Shoes & Accessories: International Shipping Available,94.0,
+1,JUMP,94.0,
+1,Combat,94.0,
+1,Motorcycle,94.0,
+1,Street, Surf & Skate,94.0,
+1,Boots,94.0,
+
+A2O6UMWKTFN4
+1,Casual Daypacks,54.95,
+
+A18D1E1AQOD5IV
+1,Clothing,24.99,
+1,Skullies & Beanies,24.99,
+
+A4VEAF86UN7Q5
+1,Kids & Baby,5.69,
+
+A22OQ4OCPQ47SH
+1,Women,358.48,
+1,Necklaces & Pendants,358.48,
+
+A2NRGRDJ509PJQ
+1,New Arrivals,15.96,
+1,Jewelry: International Shipping Available,15.96,
+1,Girls,15.96,
+1,Available for International Shipping,15.96,
+1,Timex,15.96,
+1,Timex test,15.96,
+1,Wrist Watches,15.96,
+
+AVWHLVDS5KRQ5
+1,Backpacks,25.99,
+
+A30X3E2B7YC6C3
+1,Jewelry: International Shipping Available,20.4,
+1,Amazon Curated Collection,20.4,
+1,Pendants,20.4,
+1,Novelty,20.4,
+
+A33WD45K7BIN2H
+1,Blouses & Button-Down Shirts,19.99,
+
+A16TDHT7MD010
+1,Clutches,13.64,
+1,Shoes & Accessories: International Shipping Available,21.45,
+2,Wallets,21.45,20.75,
+2,Accessories,21.45,20.75,
+1,Cross-Body Bags,39.99,
+1,Shoulder Bags,39.95,
+
+A2LN5V1AJ7CW8W
+1,Wigs,15.87,
+
+A2WMJ6CDWFBA48
+1,Women,9.99,
+1,Brooches & Pins,9.99,
+
+A3QWOZVIXOCYVZ
+1,Men,9.99,
+1,Earrings,9.99,
+
+A7OGSGDNAS4BT
+1,Dickies,22.14,
+1,Flat Front,22.14,
+1,Belts,14.99,
+
+A1VUSAQ38IA5NR
+1,Cleaning & Care,6.95,
+1,Wallets,38.95,
+1,Accessories,38.95,
+
+A1V8L0UA09EI95
+1,Women,12.5,
+1,Jewelry,12.5,
+1,Retainers,12.5,
+
+A5GYP0OIRI1E
+1,New Arrivals,21.99,
+1,Jewelry: International Shipping Available,21.99,
+1,Available for International Shipping,21.99,
+1,Sport Watches,21.99,
+1,Wrist Watches,21.99,
+1,Men's Athletic Watches,21.99,
+
+A1ASWMCKI01SKN
+1,Shoes & Accessories: International Shipping Available,109.95,
+1,Miz Mooz,109.95,
+1,Sandals,109.95,
+
+A1INES9J0H7XZZ
+1,Women,7.95,
+1,Earrings,7.95,
+2,Fashion Scarves,2.8,2.8,
+
+A1GS7CK9SRD81W
+1,New Arrivals,163.05,
+1,Wrist Watches,163.05,
+1,Watch Accessories,163.05,
+
+ARFH6YBP17OYE
+1,Briefcases,31.47,
+
+A2X92ZXP0LL7KC
+1,New Arrivals,198.0,
+1,Jewelry: International Shipping Available,198.0,
+1,Fashion Watches,198.0,
+1,Available for International Shipping,198.0,
+1,Wrist Watches,198.0,
+
+A3LCXRMQVTCNBD
+1,Shoes & Accessories: International Shipping Available,105.95,
+1,Pleaser,105.95,
+1,Boots,105.95,
+
+A2O13NXGQBXFA7
+1,Boots,129.95,
+
+ADCM9YSY7YP82
+1,Socks,19.98,
+
+A3JIU7J9SEROQ6
+1,Skullies & Beanies,3.9,
+1,Novelty,1.58,
+
+A23YLPW55X1XZ
+1,Hats,5.21,
+
+A1T8RBX9R9O5OT
+1,Casual Daypacks,17.55,
+
+A1D8YS445ZSFJL
+1,Pajama Sets,9.6,
+
+A3DKXOGRHODG91
+1,Necklaces,1.99,
+1,Novelty,1.99,
+
+A9GP5YPFEUCGN
+2,Watch Bands,18.95,18.95,
+
+A1B1JZTWRCGN2I
+1,Shoe Decoration Charms,6.95,
+
+A5UJ0YX4Q1R86
+1,Neckties,9.95,
+
+A3K5Z9F9VWK9LR
+2,Jeans,33.5,33.5,
+
+A2T1PTPOUS4JFE
+1,Women,11.11,
+2,Accessories,11.11,11.11,
+
+A3H1IYV09TZ7I2
+1,Jewelry: International Shipping Available,73.5,
+1,Fashion Watches,73.5,
+1,Available for International Shipping,73.5,
+1,Skagen Watches,73.5,
+1,Wrist Watches,73.5,
+
+A16113261FWQ2Y
+1,Shoes & Accessories: International Shipping Available,144.95,
+1,ECCO,144.95,
+1,Comfort Shoes,144.95,
+1,Fashion Sneakers,144.95,
+1,Athletic,144.95,
+
+A30QYZVUOJ8QOR
+1,Boys,14.99,
+
+A3Q1GP5GQWA008
+1,Religious,39.88,
+1,Plain Bands,39.88,
+1,Novelty,39.88,
+
+A2WWE6C5NSHTN4
+1,Briefcases,19.5,
+
+ATXFQP8PSUP1F
+1,Girls,32.95,
+1,Boys,32.95,
+1,Luggage & Travel Gear,32.95,
+
+APY7AHBD3QUBM
+1,Hats & Caps,17.61,
+
+A53JQVGJB9APH
+1,Hats & Caps,12.49,
+
+A1MCSTXTHVJW9L
+1,Girls,16.72,
+1,Baby Girls,16.72,
+1,Blouses & Button-Down Shirts,35.0,
+1,T-Shirts,23.07,
+
+A1N8SU2LKJYWX9
+1,Cold Weather Gloves,9.99,
+
+A2UWF12CA7VKWR
+1,Women,20.88,
+1,More Accessories,5.9,
+1,Scrub Bottoms,10.11,
+4,Sunglasses,6.69,6.69,6.99,6.99,
+
+AHIKHCGW81OE8
+1,Hats & Caps,5.05,
+
+A1UITW3114T7MX
+1,Shoes & Accessories: International Shipping Available,59.99,
+1,Nine West,59.99,
+1,Motorcycle,59.99,
+1,Boots,59.99,
+
+A1N104IVHVL4T1
+1,Clothing,10.99,
+3,Accessories,12.0,12.0,12.0,
+
+A2UDUA4R77RF6
+1,Gifts,15.96,
+1,Jewelry: International Shipping Available,15.96,
+1,Watch Gifts,15.96,
+1,Available for International Shipping,15.96,
+1,Sport Watches,15.96,
+1,Timex,15.96,
+1,Timex test,15.96,
+1,Wrist Watches,15.96,
+
+ARDNSOUN1Z05V
+1,New Arrivals,39.95,
+1,Jewelry: International Shipping Available,39.95,
+1,Fashion Watches,39.95,
+1,Available for International Shipping,39.95,
+2,Wrist Watches,39.95,39.95,
+
+A2U5R1BEWACJNB
+1,Women,6.95,
+1,Leggings,6.95,
+1,Boots,23.95,
+
+A27AJS71W0R345
+2,Women,2.99,7.99,
+2,Jewelry,2.99,7.99,
+2,Tapers,2.99,7.99,
+
+A2I1N466EM3UHY
+1,Girls,10.99,
+1,Kids & Baby,10.99,
+
+A2C37PAF3SUUIE
+1,Casual Socks,10.5,
+
+A19KBKROB0H8C9
+1,7 For All Mankind,169.0,
+2,Jeans,169.0,169.0,
+1,Big & Tall,169.0,
+1,Women's Luxury Brands,169.0,
+
+A15M7A5A11EPCV
+1,Accessories,21.62,
+1,Baby Boys,21.62,
+
+A74BXMOJ90Q3I
+1,Charms,29.99,
+1,Novelty,29.99,
+
+A2B52XAR4IWJFA
+1,Fashion Hoodies & Sweatshirts,34.5,
+
+AMAJPYFNU0VT
+1,Pajama Sets,18.0,
+
+A131BTAZHLNZZQ
+1,Accessories,8.99,
+1,Women,8.99,
+1,Men,8.99,
+1,Sports Duffels,63.82,
+1,More Accessories,2.4,
+
+AF5PX5ERB7CHF
+1,Girls,18.39,
+
+A1X2PSKMILO6XA
+1,New Arrivals,84.99,
+1,Wrist Watches,84.99,
+
+A39EN5XP8LDVX8
+2,Men,3.17,14.95,
+1,Sunglasses & Eyewear,3.17,
+1,Novelty,14.95,
+1,T-Shirts,14.95,
+
+AYZGS6L84B6FU
+1,Luggage Locks,14.55,
+
+A2MFA787ECF79P
+1,New Jewelry,98.94,
+1,Jewelry: International Shipping Available,98.94,
+1,Amazon Curated Collection,98.94,
+1,Lockets,98.94,
+1,Novelty,98.94,
+
+A1R9RIJ0JAJP9M
+1,Collectible Watches,225.0,
+1,Wrist Watches,225.0,
+
+AVH8Y8LHNS77
+1,Socks,13.99,
+
+A2ILJO6JDB8GBN
+1,Women,1.52,
+1,Rings,1.52,
+
+A2XC6Y2CNGQK7Z
+1,Fashion Watches,24.95,
+1,Wrist Watches,24.95,
+
+A276LKMJ5TAYEI
+1,Sandals,10.75,
+
+A120XC1LVZ2SJZ
+1,Men,3.99,
+1,Jewelry,3.99,
+1,Rings,3.99,
+
+A1LC9VN6ACPQRN
+1,Women,10.25,
+
+A1RSOT7U2S7G4Z
+1,Jewelry,35.5,
+1,Wedding Rings,35.5,
+
+A2BZAPWGSCYURM
+1,Baby Boys,30.77,
+
+A3AL2IB527WEAW
+1,Nightgowns & Sleepshirts,64.0,
+
+ANOIBDFJL3XUB
+1,Nike,160.0,
+1,Running,160.0,
+1,Jewelry: International Shipping Available,19.68,
+1,Amazon Curated Collection,19.68,
+1,Stud,19.68,
+1,Novelty,19.68,
+
+AIBDCIWC061A
+8,Women,15.95,18.99,10.99,15.95,19.99,13.99,5.62,45.0,
+7,Earrings,15.95,18.99,10.99,15.95,19.99,13.99,5.62,
+1,New Arrivals,55.95,
+2,Jewelry: International Shipping Available,55.95,5.62,
+1,Available for International Shipping,55.95,
+1,Timex,55.95,
+1,Wrist Watches,55.95,
+1,Cleaning & Care,3.83,
+2,Fashion Scarves,4.99,28.0,
+1,Shop by Designer,5.62,
+1,Jewelry Boxes,4.85,
+
+ASJ0AF0N5CZQS
+1,Women,10.97,
+1,Earrings,10.97,
+
+A1DE36ISMHDQTC
+1,Hats,10.59,
+
+A2VVOQQARE4B6G
+1,Cross-Body Bags,7.9,
+1,Shoulder Bags,7.9,
+
+A2FRQ8LCUIN55U
+1,Gemstones,28.09,
+1,Bands,28.09,
+1,Rings,28.09,
+1,Novelty,28.09,
+
+A19LJHSDASY51I
+1,Women,9.99,
+1,Novelty,9.99,
+
+A1YDFJVQ8GUHTP
+1,Brooks,140.0,
+1,Running,140.0,
+
+A3NT1GUC3UTJ06
+2,Jewelry: International Shipping Available,32.39,18.36,
+1,Amazon Curated Collection,32.39,
+1,Pendants,32.39,
+1,Novelty,32.39,
+2,New Arrivals,18.36,24.0,
+1,Available for International Shipping,18.36,
+1,Sport Watches,18.36,
+1,Timex,18.36,
+1,Timex test,18.36,
+2,Wrist Watches,18.36,24.0,
+2,Women,11.49,31.99,
+1,Eternity Rings,11.49,
+1,Rings,31.99,
+
+A359667XCOJAKL
+1,Five-Stone Jewelry,24.95,
+1,Chains,24.95,
+1,Novelty,24.95,
+
+A1JGYDHZUGNRX3
+1,New Arrivals,15.0,
+1,Jewelry: International Shipping Available,15.0,
+1,Available for International Shipping,15.0,
+1,Wrist Watches,15.0,
+
+A1Q1QYFZTTBHJT
+1,Women,9.99,
+
+A3N3SVU5SS1LPW
+1,Shoes & Accessories: International Shipping Available,99.95,
+1,New Balance,99.95,
+1,Running,99.95,
+1,Trail Running,99.95,
+
+A2N74GFKWJITHV
+1,Intimates,5.29,
+1,Bow Ties,1.75,
+
+APDALQY1CZZT8
+1,Casual Daypacks,39.99,
+1,Backpacks,39.98,
+
+A2WGC7S1QUSXUW
+1,Women,11.99,
+
+A3S7IIVBKRS7DU
+1,Shoe Decoration Charms,8.95,
+
+A2KPSR5XYB08PF
+1,Dress Shirts,19.95,
+1,Big & Tall,19.95,
+
+A3LESHANEZEEO0
+1,Vests,22.95,
+1,Big & Tall,22.95,
+
+A15IF8VXRK5TBV
+1,ASICS,95.0,
+1,Walking,95.0,
+
+A2ARWWWJ3A269V
+1,Jewelry Boxes & Organizers,2.1,
+1,Women,2.8,
+1,Necklaces & Pendants,2.8,
+1,Jewelry Outlet,3.98,
+1,Jewelry,3.98,
+1,Novelty,3.98,
+
+AUQ80I6V8I38Q
+1,UGG,12.45,
+1,Shoe Care & Accessories,12.45,
+
+AXUJ8FJD2CDQY
+1,Umbrellas,25.0,
+
+AM9RFUOGGLC0F
+2,Women,35.38,8.26,
+1,Accessories,8.26,
+1,Cardigans,15.99,
+
+A3OQAAGH02M04C
+1,Shoes & Accessories: International Shipping Available,150.0,
+1,Stuart Weitzman,150.0,
+1,Sandals,150.0,
+1,Designer Shoes & Handbags,150.0,
+1,Women's Luxury Brands,150.0,
+
+ATXEFXBU0BXNV
+1,New Arrivals,88.55,
+1,Jewelry: International Shipping Available,88.55,
+1,Available for International Shipping,88.55,
+1,Kenneth Cole New York,88.55,
+1,Kenneth Cole,88.55,
+1,Wrist Watches,88.55,
+
+A1KIXY0TLMBC0F
+1,Shoes & Accessories: International Shipping Available,22.0,
+1,Packing Organizers,22.0,
+1,Shoe Horns & Boot Jacks,4.59,
+1,Bottoms,24.0,
+1,Big & Tall,24.0,
+
+A1Z7ISR3UHLY8P
+1,Women,35.95,
+1,Robes,39.95,
+1,The SAK,69.0,
+1,Cross-Body Bags,69.0,
+
+A2CJ6YIZR9CT9G
+1,Card Cases,10.99,
+1,Accessories,10.99,
+
+A33BFUZ6EJKIBF
+1,Belts,9.97,
+
+A2JWQ7RX4NZSOE
+1,Top-Handle Bags,82.0,
+1,Shoulder Bags,82.0,
+
+A1KBBQ5CJ6NWZ5
+1,New Arrivals,39.99,
+1,Jewelry: International Shipping Available,39.99,
+1,Fashion Watches,39.99,
+1,Available for International Shipping,39.99,
+1,Invicta,39.99,
+1,Wrist Watches,39.99,
+1,Watch Accessories,39.99,
+
+AJEB042CWRZE6
+1,Citizen,101.5,
+1,Wrist Watches,101.5,
+
+APFCLMO6K3SIG
+1,Necklaces,9.99,
+1,Novelty,9.99,
+
+AMT0IOW9B2Y42
+1,Women,34.0,
+1,Bras,34.0,
+
+A2MVDG3MZYL3XX
+1,Women,3.99,
+1,Jewelry,3.99,
+1,Screws,3.99,
+
+A2MRWD2J2BYMSR
+2,Accessories,14.99,14.99,
+
+ACONF8RTJXMA8
+1,Shoes & Accessories: International Shipping Available,59.95,
+1,Winter Promo,59.95,
+1,Bearpaw,59.95,
+1,Boot Shop,59.95,
+1,Boots,59.95,
+
+AVHP0OT6N9RMG
+1,Luggage & Travel Gear,54.95,
+
+A3B1H9KY6M55C0
+1,Luggage & Travel Gear,30.04,
